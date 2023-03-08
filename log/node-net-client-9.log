@@ -1,0 +1,226 @@
+2023-03-05 23:43:00,699 socket_client.py [line:240] run INFO node id 9 is running on pid 1267 
+2023-03-05 23:43:00,699 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1267 
+2023-03-05 23:44:40,484 socket_client.py [line:240] run INFO node id 9 is running on pid 1917 
+2023-03-05 23:44:40,485 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1917 
+2023-03-05 23:45:57,928 socket_client.py [line:240] run INFO node id 9 is running on pid 2403 
+2023-03-05 23:45:57,928 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2403 
+2023-03-05 23:47:50,007 socket_client.py [line:240] run INFO node id 9 is running on pid 2870 
+2023-03-05 23:47:50,007 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2870 
+2023-03-05 23:50:07,689 socket_client.py [line:240] run INFO node id 9 is running on pid 3405 
+2023-03-05 23:50:07,689 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3405 
+2023-03-06 00:07:49,213 socket_client.py [line:240] run INFO node id 9 is running on pid 4256 
+2023-03-06 00:07:49,213 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4256 
+2023-03-06 00:13:13,665 socket_client.py [line:240] run INFO node id 9 is running on pid 4646 
+2023-03-06 00:13:13,665 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4646 
+2023-03-06 11:20:39,696 socket_client.py [line:240] run INFO node id 9 is running on pid 2300 
+2023-03-06 11:20:39,696 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2300 
+2023-03-06 11:22:50,847 socket_client.py [line:240] run INFO node id 9 is running on pid 2658 
+2023-03-06 11:22:50,848 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2658 
+2023-03-06 11:23:01,838 socket_client.py [line:240] run INFO node id 9 is running on pid 2890 
+2023-03-06 11:23:01,839 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2890 
+2023-03-06 11:24:05,068 socket_client.py [line:240] run INFO node id 9 is running on pid 3207 
+2023-03-06 11:24:05,068 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3207 
+2023-03-06 11:24:34,971 socket_client.py [line:240] run INFO node id 9 is running on pid 3561 
+2023-03-06 11:24:34,972 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3561 
+2023-03-06 17:05:48,228 socket_client.py [line:240] run INFO node id 9 is running on pid 4025 
+2023-03-06 17:05:48,228 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4025 
+2023-03-06 17:06:39,890 socket_client.py [line:240] run INFO node id 9 is running on pid 4376 
+2023-03-06 17:06:39,890 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4376 
+2023-03-06 17:08:06,253 socket_client.py [line:240] run INFO node id 9 is running on pid 4815 
+2023-03-06 17:08:06,253 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4815 
+2023-03-06 17:08:57,024 socket_client.py [line:240] run INFO node id 9 is running on pid 5320 
+2023-03-06 17:08:57,024 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 5320 
+2023-03-06 17:12:44,657 socket_client.py [line:240] run INFO node id 9 is running on pid 5821 
+2023-03-06 17:12:44,657 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 5821 
+2023-03-06 17:13:22,181 socket_client.py [line:240] run INFO node id 9 is running on pid 6318 
+2023-03-06 17:13:22,181 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 6318 
+2023-03-07 12:23:01,905 socket_client.py [line:240] run INFO node id 9 is running on pid 703 
+2023-03-07 12:23:01,905 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 703 
+2023-03-07 12:23:37,732 socket_client.py [line:240] run INFO node id 9 is running on pid 1194 
+2023-03-07 12:23:37,732 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1194 
+2023-03-07 16:52:22,369 socket_client.py [line:240] run INFO node id 9 is running on pid 2270 
+2023-03-07 16:52:22,369 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2270 
+2023-03-07 16:53:58,948 socket_client.py [line:240] run INFO node id 9 is running on pid 2744 
+2023-03-07 16:53:58,948 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2744 
+2023-03-07 16:55:25,875 socket_client.py [line:240] run INFO node id 9 is running on pid 3170 
+2023-03-07 16:55:25,875 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3170 
+2023-03-07 16:56:11,009 socket_client.py [line:240] run INFO node id 9 is running on pid 3476 
+2023-03-07 16:56:11,010 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3476 
+2023-03-07 16:56:41,318 socket_client.py [line:240] run INFO node id 9 is running on pid 3814 
+2023-03-07 16:56:41,318 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3814 
+2023-03-07 16:57:29,431 socket_client.py [line:240] run INFO node id 9 is running on pid 4273 
+2023-03-07 16:57:29,431 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4273 
+2023-03-07 16:59:48,960 socket_client.py [line:240] run INFO node id 9 is running on pid 4776 
+2023-03-07 16:59:48,960 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4776 
+2023-03-07 17:10:53,098 socket_client.py [line:240] run INFO node id 9 is running on pid 5352 
+2023-03-07 17:10:53,098 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 5352 
+2023-03-07 17:13:03,588 socket_client.py [line:240] run INFO node id 9 is running on pid 5879 
+2023-03-07 17:13:03,588 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 5879 
+2023-03-07 18:03:08,736 socket_client.py [line:240] run INFO node id 9 is running on pid 6965 
+2023-03-07 18:03:08,736 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 6965 
+2023-03-07 18:03:56,171 socket_client.py [line:240] run INFO node id 9 is running on pid 7452 
+2023-03-07 18:03:56,171 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 7452 
+2023-03-07 18:04:17,506 socket_client.py [line:240] run INFO node id 9 is running on pid 7815 
+2023-03-07 18:04:17,508 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 7815 
+2023-03-07 18:04:39,178 socket_client.py [line:240] run INFO node id 9 is running on pid 8158 
+2023-03-07 18:04:39,178 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 8158 
+2023-03-07 18:04:41,114 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,115 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-07 18:04:41,118 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,118 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-07 18:04:41,120 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,120 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-07 18:04:41,121 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,122 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-07 18:05:15,780 socket_client.py [line:240] run INFO node id 9 is running on pid 8624 
+2023-03-07 18:05:15,784 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 8624 
+2023-03-07 18:05:27,788 socket_client.py [line:240] run INFO node id 9 is running on pid 9011 
+2023-03-07 18:05:27,789 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 9011 
+2023-03-07 18:10:50,232 socket_client.py [line:240] run INFO node id 9 is running on pid 9584 
+2023-03-07 18:10:50,233 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 9584 
+2023-03-07 18:15:15,033 socket_client.py [line:240] run INFO node id 9 is running on pid 10138 
+2023-03-07 18:15:15,034 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 10138 
+2023-03-07 18:49:21,815 socket_client.py [line:240] run INFO node id 9 is running on pid 11370 
+2023-03-07 18:49:21,815 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 11370 
+2023-03-07 18:50:32,606 socket_client.py [line:240] run INFO node id 9 is running on pid 11859 
+2023-03-07 18:50:32,606 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 11859 
+2023-03-07 19:09:25,671 socket_client.py [line:240] run INFO node id 9 is running on pid 14912 
+2023-03-07 19:09:25,672 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 14912 
+2023-03-07 19:10:25,506 socket_client.py [line:240] run INFO node id 9 is running on pid 15263 
+2023-03-07 19:10:25,507 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 15263 
+2023-03-07 19:13:21,977 socket_client.py [line:240] run INFO node id 9 is running on pid 15765 
+2023-03-07 19:13:21,977 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 15765 
+2023-03-07 19:15:32,831 socket_client.py [line:240] run INFO node id 9 is running on pid 16259 
+2023-03-07 19:15:32,831 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 16259 
+2023-03-07 21:31:02,204 socket_client.py [line:240] run INFO node id 9 is running on pid 16898 
+2023-03-07 21:31:02,204 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 16898 
+2023-03-07 21:35:48,077 socket_client.py [line:240] run INFO node id 9 is running on pid 17280 
+2023-03-07 21:35:48,077 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 17280 
+2023-03-07 21:42:18,217 socket_client.py [line:240] run INFO node id 9 is running on pid 17665 
+2023-03-07 21:42:18,217 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 17665 
+2023-03-07 21:48:54,769 socket_client.py [line:240] run INFO node id 9 is running on pid 18074 
+2023-03-07 21:48:54,769 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 18074 
+2023-03-07 21:54:26,446 socket_client.py [line:240] run INFO node id 9 is running on pid 18482 
+2023-03-07 21:54:26,447 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 18482 
+2023-03-07 22:00:11,837 socket_client.py [line:240] run INFO node id 9 is running on pid 18815 
+2023-03-07 22:00:11,837 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 18815 
+2023-03-07 22:07:27,806 socket_client.py [line:240] run INFO node id 9 is running on pid 19342 
+2023-03-07 22:07:27,807 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 19342 
+2023-03-07 22:14:48,762 socket_client.py [line:240] run INFO node id 9 is running on pid 19999 
+2023-03-07 22:14:48,762 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 19999 
+2023-03-07 22:20:16,461 socket_client.py [line:240] run INFO node id 9 is running on pid 20362 
+2023-03-07 22:20:16,462 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 20362 
+2023-03-07 22:25:02,466 socket_client.py [line:240] run INFO node id 9 is running on pid 20729 
+2023-03-07 22:25:02,467 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 20729 
+2023-03-07 22:30:42,277 socket_client.py [line:240] run INFO node id 9 is running on pid 21127 
+2023-03-07 22:30:42,278 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 21127 
+2023-03-07 22:36:04,977 socket_client.py [line:240] run INFO node id 9 is running on pid 21553 
+2023-03-07 22:36:04,977 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 21553 
+2023-03-07 22:44:17,090 socket_client.py [line:240] run INFO node id 9 is running on pid 22059 
+2023-03-07 22:44:17,091 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 22059 
+2023-03-07 22:49:08,142 socket_client.py [line:240] run INFO node id 9 is running on pid 22474 
+2023-03-07 22:49:08,143 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 22474 
+2023-03-07 22:54:27,973 socket_client.py [line:240] run INFO node id 9 is running on pid 22921 
+2023-03-07 22:54:27,973 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 22921 
+2023-03-07 22:59:16,109 socket_client.py [line:240] run INFO node id 9 is running on pid 23370 
+2023-03-07 22:59:16,109 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 23370 
+2023-03-07 23:05:12,198 socket_client.py [line:240] run INFO node id 9 is running on pid 23848 
+2023-03-07 23:05:12,199 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 23848 
+2023-03-07 23:13:19,455 socket_client.py [line:240] run INFO node id 9 is running on pid 24546 
+2023-03-07 23:13:19,455 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 24546 
+2023-03-07 23:18:38,269 socket_client.py [line:240] run INFO node id 9 is running on pid 24935 
+2023-03-07 23:18:38,269 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 24935 
+2023-03-07 23:22:40,237 socket_client.py [line:240] run INFO node id 9 is running on pid 25305 
+2023-03-07 23:22:40,238 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 25305 
+2023-03-07 23:27:25,506 socket_client.py [line:240] run INFO node id 9 is running on pid 25715 
+2023-03-07 23:27:25,506 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 25715 
+2023-03-07 23:32:07,145 socket_client.py [line:240] run INFO node id 9 is running on pid 26101 
+2023-03-07 23:32:07,146 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 26101 
+2023-03-07 23:36:11,932 socket_client.py [line:240] run INFO node id 9 is running on pid 26508 
+2023-03-07 23:36:11,932 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 26508 
+2023-03-07 23:41:13,273 socket_client.py [line:240] run INFO node id 9 is running on pid 26811 
+2023-03-07 23:41:13,273 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 26811 
+2023-03-07 23:47:55,575 socket_client.py [line:240] run INFO node id 9 is running on pid 27439 
+2023-03-07 23:47:55,575 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 27439 
+2023-03-07 23:53:36,327 socket_client.py [line:240] run INFO node id 9 is running on pid 27960 
+2023-03-07 23:53:36,328 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 27960 
+2023-03-07 23:57:12,091 socket_client.py [line:240] run INFO node id 9 is running on pid 28314 
+2023-03-07 23:57:12,091 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 28314 
+2023-03-08 00:01:01,288 socket_client.py [line:240] run INFO node id 9 is running on pid 28755 
+2023-03-08 00:01:01,288 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 28755 
+2023-03-08 00:05:40,931 socket_client.py [line:240] run INFO node id 9 is running on pid 29246 
+2023-03-08 00:05:40,931 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 29246 
+2023-03-08 00:08:32,012 socket_client.py [line:240] run INFO node id 9 is running on pid 29697 
+2023-03-08 00:08:32,012 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 29697 
+2023-03-08 00:09:35,580 socket_client.py [line:240] run INFO node id 9 is running on pid 30051 
+2023-03-08 00:09:35,581 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 30051 
+2023-03-08 00:10:51,823 socket_client.py [line:240] run INFO node id 9 is running on pid 30421 
+2023-03-08 00:10:51,823 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 30421 
+2023-03-08 00:11:52,897 socket_client.py [line:240] run INFO node id 9 is running on pid 30779 
+2023-03-08 00:11:52,897 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 30779 
+2023-03-08 00:13:10,201 socket_client.py [line:240] run INFO node id 9 is running on pid 31140 
+2023-03-08 00:13:10,201 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 31140 
+2023-03-08 00:15:49,814 socket_client.py [line:240] run INFO node id 9 is running on pid 31519 
+2023-03-08 00:15:49,814 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 31519 
+2023-03-08 00:17:24,951 socket_client.py [line:240] run INFO node id 9 is running on pid 31883 
+2023-03-08 00:17:24,951 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 31883 
+2023-03-08 00:18:34,853 socket_client.py [line:240] run INFO node id 9 is running on pid 32242 
+2023-03-08 00:18:34,853 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 32242 
+2023-03-08 00:19:40,761 socket_client.py [line:240] run INFO node id 9 is running on pid 32548 
+2023-03-08 00:19:40,761 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 32548 
+2023-03-08 00:20:45,062 socket_client.py [line:240] run INFO node id 9 is running on pid 416 
+2023-03-08 00:20:45,062 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 416 
+2023-03-08 00:22:02,248 socket_client.py [line:240] run INFO node id 9 is running on pid 808 
+2023-03-08 00:22:02,248 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 808 
+2023-03-08 00:23:57,870 socket_client.py [line:240] run INFO node id 9 is running on pid 1162 
+2023-03-08 00:23:57,870 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1162 
+2023-03-08 00:24:55,833 socket_client.py [line:240] run INFO node id 9 is running on pid 1602 
+2023-03-08 00:24:55,833 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1602 
+2023-03-08 00:26:03,547 socket_client.py [line:240] run INFO node id 9 is running on pid 1960 
+2023-03-08 00:26:03,548 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1960 
+2023-03-08 00:27:09,220 socket_client.py [line:240] run INFO node id 9 is running on pid 2361 
+2023-03-08 00:27:09,220 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2361 
+2023-03-08 00:27:58,653 socket_client.py [line:240] run INFO node id 9 is running on pid 2647 
+2023-03-08 00:27:58,654 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2647 
+2023-03-08 00:29:08,469 socket_client.py [line:240] run INFO node id 9 is running on pid 3018 
+2023-03-08 00:29:08,469 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3018 
+2023-03-08 00:30:12,216 socket_client.py [line:240] run INFO node id 9 is running on pid 3397 
+2023-03-08 00:30:12,216 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3397 
+2023-03-08 00:33:12,968 socket_client.py [line:240] run INFO node id 9 is running on pid 3806 
+2023-03-08 00:33:12,968 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 3806 
+2023-03-08 00:35:43,418 socket_client.py [line:240] run INFO node id 9 is running on pid 4172 
+2023-03-08 00:35:43,418 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4172 
+2023-03-08 00:36:52,836 socket_client.py [line:240] run INFO node id 9 is running on pid 4547 
+2023-03-08 00:36:52,837 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4547 
+2023-03-08 00:37:55,117 socket_client.py [line:240] run INFO node id 9 is running on pid 4930 
+2023-03-08 00:37:55,117 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 4930 
+2023-03-08 00:39:27,846 socket_client.py [line:240] run INFO node id 9 is running on pid 5366 
+2023-03-08 00:39:27,846 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 5366 
+2023-03-08 00:40:36,452 socket_client.py [line:240] run INFO node id 9 is running on pid 5736 
+2023-03-08 00:40:36,452 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 5736 
+2023-03-08 00:43:12,563 socket_client.py [line:240] run INFO node id 9 is running on pid 6116 
+2023-03-08 00:43:12,563 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 6116 
+2023-03-08 00:44:03,853 socket_client.py [line:240] run INFO node id 9 is running on pid 6500 
+2023-03-08 00:44:03,853 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 6500 
+2023-03-08 00:45:04,901 socket_client.py [line:240] run INFO node id 9 is running on pid 6910 
+2023-03-08 00:45:04,902 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 6910 
+2023-03-08 00:46:50,284 socket_client.py [line:240] run INFO node id 9 is running on pid 7304 
+2023-03-08 00:46:50,284 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 7304 
+2023-03-08 00:48:13,626 socket_client.py [line:240] run INFO node id 9 is running on pid 7713 
+2023-03-08 00:48:13,627 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 7713 
+2023-03-08 14:07:33,525 socket_client.py [line:240] run INFO node id 9 is running on pid 261 
+2023-03-08 14:07:33,525 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 261 
+2023-03-08 14:10:17,894 socket_client.py [line:240] run INFO node id 9 is running on pid 498 
+2023-03-08 14:10:17,894 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 498 
+2023-03-08 14:14:45,315 socket_client.py [line:240] run INFO node id 9 is running on pid 752 
+2023-03-08 14:14:45,316 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 752 
+2023-03-08 14:18:17,930 socket_client.py [line:240] run INFO node id 9 is running on pid 999 
+2023-03-08 14:18:17,930 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 999 
+2023-03-08 14:21:30,270 socket_client.py [line:240] run INFO node id 9 is running on pid 1773 
+2023-03-08 14:21:30,270 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 1773 
+2023-03-08 14:25:02,141 socket_client.py [line:240] run INFO node id 9 is running on pid 2128 
+2023-03-08 14:25:02,142 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2128 
+2023-03-08 14:26:45,129 socket_client.py [line:240] run INFO node id 9 is running on pid 2363 
+2023-03-08 14:26:45,129 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2363 
+2023-03-08 14:29:23,229 socket_client.py [line:240] run INFO node id 9 is running on pid 2730 
+2023-03-08 14:29:23,230 socket_client.py [line:53] _connect_and_send_forever INFO node 9's socket client starts to make outgoing connections on process id 2730 

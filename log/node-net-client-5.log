@@ -1,0 +1,482 @@
+2023-03-05 23:43:00,709 socket_client.py [line:240] run INFO node id 5 is running on pid 1263 
+2023-03-05 23:43:00,710 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1263 
+2023-03-05 23:44:40,523 socket_client.py [line:240] run INFO node id 5 is running on pid 1927 
+2023-03-05 23:44:40,523 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1927 
+2023-03-05 23:45:57,944 socket_client.py [line:240] run INFO node id 5 is running on pid 2412 
+2023-03-05 23:45:57,944 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2412 
+2023-03-05 23:47:50,094 socket_client.py [line:240] run INFO node id 5 is running on pid 2890 
+2023-03-05 23:47:50,094 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2890 
+2023-03-05 23:50:07,650 socket_client.py [line:240] run INFO node id 5 is running on pid 3399 
+2023-03-05 23:50:07,650 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3399 
+2023-03-06 00:07:49,294 socket_client.py [line:240] run INFO node id 5 is running on pid 4266 
+2023-03-06 00:07:49,294 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4266 
+2023-03-06 00:13:13,554 socket_client.py [line:240] run INFO node id 5 is running on pid 4634 
+2023-03-06 00:13:13,555 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4634 
+2023-03-06 11:20:39,679 socket_client.py [line:240] run INFO node id 5 is running on pid 2298 
+2023-03-06 11:20:39,679 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2298 
+2023-03-06 11:22:50,821 socket_client.py [line:240] run INFO node id 5 is running on pid 2650 
+2023-03-06 11:22:50,822 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2650 
+2023-03-06 11:23:01,736 socket_client.py [line:240] run INFO node id 5 is running on pid 2882 
+2023-03-06 11:23:01,736 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2882 
+2023-03-06 11:24:05,121 socket_client.py [line:240] run INFO node id 5 is running on pid 3211 
+2023-03-06 11:24:05,121 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3211 
+2023-03-06 11:24:34,962 socket_client.py [line:240] run INFO node id 5 is running on pid 3559 
+2023-03-06 11:24:34,962 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3559 
+2023-03-06 17:05:48,169 socket_client.py [line:240] run INFO node id 5 is running on pid 4023 
+2023-03-06 17:05:48,169 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4023 
+2023-03-06 17:06:39,807 socket_client.py [line:240] run INFO node id 5 is running on pid 4366 
+2023-03-06 17:06:39,807 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4366 
+2023-03-06 17:08:06,274 socket_client.py [line:240] run INFO node id 5 is running on pid 4825 
+2023-03-06 17:08:06,274 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4825 
+2023-03-06 17:08:57,002 socket_client.py [line:240] run INFO node id 5 is running on pid 5313 
+2023-03-06 17:08:57,002 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 5313 
+2023-03-06 17:12:44,668 socket_client.py [line:240] run INFO node id 5 is running on pid 5828 
+2023-03-06 17:12:44,668 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 5828 
+2023-03-06 17:13:22,131 socket_client.py [line:240] run INFO node id 5 is running on pid 6316 
+2023-03-06 17:13:22,131 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 6316 
+2023-03-07 12:23:01,941 socket_client.py [line:240] run INFO node id 5 is running on pid 715 
+2023-03-07 12:23:01,942 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 715 
+2023-03-07 12:23:37,637 socket_client.py [line:240] run INFO node id 5 is running on pid 1178 
+2023-03-07 12:23:37,638 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1178 
+2023-03-07 16:52:22,367 socket_client.py [line:240] run INFO node id 5 is running on pid 2262 
+2023-03-07 16:52:22,367 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2262 
+2023-03-07 16:53:58,955 socket_client.py [line:240] run INFO node id 5 is running on pid 2749 
+2023-03-07 16:53:58,955 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2749 
+2023-03-07 16:55:25,894 socket_client.py [line:240] run INFO node id 5 is running on pid 3181 
+2023-03-07 16:55:25,895 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3181 
+2023-03-07 16:56:11,129 socket_client.py [line:240] run INFO node id 5 is running on pid 3490 
+2023-03-07 16:56:11,129 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3490 
+2023-03-07 16:56:41,469 socket_client.py [line:240] run INFO node id 5 is running on pid 3830 
+2023-03-07 16:56:41,469 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3830 
+2023-03-07 16:57:29,436 socket_client.py [line:240] run INFO node id 5 is running on pid 4282 
+2023-03-07 16:57:29,436 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4282 
+2023-03-07 16:59:49,004 socket_client.py [line:240] run INFO node id 5 is running on pid 4787 
+2023-03-07 16:59:49,005 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4787 
+2023-03-07 17:10:53,125 socket_client.py [line:240] run INFO node id 5 is running on pid 5360 
+2023-03-07 17:10:53,125 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 5360 
+2023-03-07 17:13:03,538 socket_client.py [line:240] run INFO node id 5 is running on pid 5865 
+2023-03-07 17:13:03,538 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 5865 
+2023-03-07 18:03:08,782 socket_client.py [line:240] run INFO node id 5 is running on pid 6980 
+2023-03-07 18:03:08,783 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 6980 
+2023-03-07 18:03:55,771 socket_client.py [line:240] run INFO node id 5 is running on pid 7442 
+2023-03-07 18:03:55,773 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 7442 
+2023-03-07 18:04:16,404 socket_client.py [line:240] run INFO node id 5 is running on pid 7802 
+2023-03-07 18:04:16,408 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 7802 
+2023-03-07 18:04:39,277 socket_client.py [line:240] run INFO node id 5 is running on pid 8174 
+2023-03-07 18:04:39,277 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 8174 
+2023-03-07 18:04:41,004 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,005 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-07 18:04:41,010 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,011 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-07 18:04:41,022 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-07 18:04:41,023 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-07 18:05:16,609 socket_client.py [line:240] run INFO node id 5 is running on pid 8628 
+2023-03-07 18:05:16,609 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 8628 
+2023-03-07 18:05:27,467 socket_client.py [line:240] run INFO node id 5 is running on pid 8985 
+2023-03-07 18:05:27,467 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 8985 
+2023-03-07 18:10:50,131 socket_client.py [line:240] run INFO node id 5 is running on pid 9570 
+2023-03-07 18:10:50,131 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 9570 
+2023-03-07 18:15:15,040 socket_client.py [line:240] run INFO node id 5 is running on pid 10139 
+2023-03-07 18:15:15,040 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 10139 
+2023-03-07 18:49:21,813 socket_client.py [line:240] run INFO node id 5 is running on pid 11371 
+2023-03-07 18:49:21,813 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 11371 
+2023-03-07 18:50:32,572 socket_client.py [line:240] run INFO node id 5 is running on pid 11842 
+2023-03-07 18:50:32,572 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 11842 
+2023-03-07 19:09:25,657 socket_client.py [line:240] run INFO node id 5 is running on pid 14910 
+2023-03-07 19:09:25,657 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 14910 
+2023-03-07 19:10:25,483 socket_client.py [line:240] run INFO node id 5 is running on pid 15257 
+2023-03-07 19:10:25,483 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 15257 
+2023-03-07 19:13:21,930 socket_client.py [line:240] run INFO node id 5 is running on pid 15754 
+2023-03-07 19:13:21,930 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 15754 
+2023-03-07 19:15:32,855 socket_client.py [line:240] run INFO node id 5 is running on pid 16263 
+2023-03-07 19:15:32,855 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 16263 
+2023-03-07 21:31:02,188 socket_client.py [line:240] run INFO node id 5 is running on pid 16896 
+2023-03-07 21:31:02,188 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 16896 
+2023-03-07 21:35:48,066 socket_client.py [line:240] run INFO node id 5 is running on pid 17278 
+2023-03-07 21:35:48,067 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 17278 
+2023-03-07 21:42:18,310 socket_client.py [line:240] run INFO node id 5 is running on pid 17675 
+2023-03-07 21:42:18,310 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 17675 
+2023-03-07 21:48:54,750 socket_client.py [line:240] run INFO node id 5 is running on pid 18070 
+2023-03-07 21:48:54,750 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 18070 
+2023-03-07 21:54:26,479 socket_client.py [line:240] run INFO node id 5 is running on pid 18488 
+2023-03-07 21:54:26,479 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 18488 
+2023-03-07 22:00:11,828 socket_client.py [line:240] run INFO node id 5 is running on pid 18812 
+2023-03-07 22:00:11,828 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 18812 
+2023-03-07 22:07:27,796 socket_client.py [line:240] run INFO node id 5 is running on pid 19336 
+2023-03-07 22:07:27,797 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 19336 
+2023-03-07 22:14:48,629 socket_client.py [line:240] run INFO node id 5 is running on pid 19984 
+2023-03-07 22:14:48,629 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 19984 
+2023-03-07 22:20:16,515 socket_client.py [line:240] run INFO node id 5 is running on pid 20370 
+2023-03-07 22:20:16,515 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 20370 
+2023-03-07 22:25:02,557 socket_client.py [line:240] run INFO node id 5 is running on pid 20736 
+2023-03-07 22:25:02,557 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 20736 
+2023-03-07 22:30:42,246 socket_client.py [line:240] run INFO node id 5 is running on pid 21120 
+2023-03-07 22:30:42,246 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 21120 
+2023-03-07 22:36:04,920 socket_client.py [line:240] run INFO node id 5 is running on pid 21545 
+2023-03-07 22:36:04,920 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 21545 
+2023-03-07 22:44:17,224 socket_client.py [line:240] run INFO node id 5 is running on pid 22073 
+2023-03-07 22:44:17,225 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 22073 
+2023-03-07 22:49:08,051 socket_client.py [line:240] run INFO node id 5 is running on pid 22465 
+2023-03-07 22:49:08,052 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 22465 
+2023-03-07 22:54:27,993 socket_client.py [line:240] run INFO node id 5 is running on pid 22923 
+2023-03-07 22:54:27,993 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 22923 
+2023-03-07 22:59:16,321 socket_client.py [line:240] run INFO node id 5 is running on pid 23388 
+2023-03-07 22:59:16,322 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 23388 
+2023-03-07 23:05:12,148 socket_client.py [line:240] run INFO node id 5 is running on pid 23836 
+2023-03-07 23:05:12,149 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 23836 
+2023-03-07 23:13:19,578 socket_client.py [line:240] run INFO node id 5 is running on pid 24560 
+2023-03-07 23:13:19,578 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 24560 
+2023-03-07 23:18:38,337 socket_client.py [line:240] run INFO node id 5 is running on pid 24945 
+2023-03-07 23:18:38,337 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 24945 
+2023-03-07 23:22:40,156 socket_client.py [line:240] run INFO node id 5 is running on pid 25295 
+2023-03-07 23:22:40,156 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 25295 
+2023-03-07 23:27:25,473 socket_client.py [line:240] run INFO node id 5 is running on pid 25709 
+2023-03-07 23:27:25,473 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 25709 
+2023-03-07 23:32:06,980 socket_client.py [line:240] run INFO node id 5 is running on pid 26085 
+2023-03-07 23:32:06,980 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 26085 
+2023-03-07 23:36:11,902 socket_client.py [line:240] run INFO node id 5 is running on pid 26506 
+2023-03-07 23:36:11,903 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 26506 
+2023-03-07 23:41:13,223 socket_client.py [line:240] run INFO node id 5 is running on pid 26807 
+2023-03-07 23:41:13,223 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 26807 
+2023-03-07 23:47:55,640 socket_client.py [line:240] run INFO node id 5 is running on pid 27447 
+2023-03-07 23:47:55,640 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 27447 
+2023-03-07 23:53:36,256 socket_client.py [line:240] run INFO node id 5 is running on pid 27952 
+2023-03-07 23:53:36,257 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 27952 
+2023-03-07 23:57:12,014 socket_client.py [line:240] run INFO node id 5 is running on pid 28306 
+2023-03-07 23:57:12,015 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 28306 
+2023-03-08 00:01:01,288 socket_client.py [line:240] run INFO node id 5 is running on pid 28754 
+2023-03-08 00:01:01,289 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 28754 
+2023-03-08 00:05:40,867 socket_client.py [line:240] run INFO node id 5 is running on pid 29236 
+2023-03-08 00:05:40,867 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 29236 
+2023-03-08 00:08:31,952 socket_client.py [line:240] run INFO node id 5 is running on pid 29687 
+2023-03-08 00:08:31,953 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 29687 
+2023-03-08 00:09:35,592 socket_client.py [line:240] run INFO node id 5 is running on pid 30054 
+2023-03-08 00:09:35,593 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 30054 
+2023-03-08 00:10:51,880 socket_client.py [line:240] run INFO node id 5 is running on pid 30429 
+2023-03-08 00:10:51,880 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 30429 
+2023-03-08 00:11:52,850 socket_client.py [line:240] run INFO node id 5 is running on pid 30772 
+2023-03-08 00:11:52,850 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 30772 
+2023-03-08 00:13:10,127 socket_client.py [line:240] run INFO node id 5 is running on pid 31132 
+2023-03-08 00:13:10,127 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 31132 
+2023-03-08 00:15:49,757 socket_client.py [line:240] run INFO node id 5 is running on pid 31511 
+2023-03-08 00:15:49,757 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 31511 
+2023-03-08 00:17:24,990 socket_client.py [line:240] run INFO node id 5 is running on pid 31890 
+2023-03-08 00:17:24,990 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 31890 
+2023-03-08 00:18:34,873 socket_client.py [line:240] run INFO node id 5 is running on pid 32246 
+2023-03-08 00:18:34,874 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 32246 
+2023-03-08 00:19:40,590 socket_client.py [line:240] run INFO node id 5 is running on pid 32534 
+2023-03-08 00:19:40,590 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 32534 
+2023-03-08 00:20:45,063 socket_client.py [line:240] run INFO node id 5 is running on pid 418 
+2023-03-08 00:20:45,064 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 418 
+2023-03-08 00:22:02,150 socket_client.py [line:240] run INFO node id 5 is running on pid 798 
+2023-03-08 00:22:02,150 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 798 
+2023-03-08 00:23:57,881 socket_client.py [line:240] run INFO node id 5 is running on pid 1164 
+2023-03-08 00:23:57,881 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1164 
+2023-03-08 00:24:55,771 socket_client.py [line:240] run INFO node id 5 is running on pid 1594 
+2023-03-08 00:24:55,771 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1594 
+2023-03-08 00:26:03,580 socket_client.py [line:240] run INFO node id 5 is running on pid 1962 
+2023-03-08 00:26:03,580 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1962 
+2023-03-08 00:27:09,116 socket_client.py [line:240] run INFO node id 5 is running on pid 2349 
+2023-03-08 00:27:09,116 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2349 
+2023-03-08 00:27:58,747 socket_client.py [line:240] run INFO node id 5 is running on pid 2663 
+2023-03-08 00:27:58,747 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2663 
+2023-03-08 00:29:08,551 socket_client.py [line:240] run INFO node id 5 is running on pid 3030 
+2023-03-08 00:29:08,551 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3030 
+2023-03-08 00:30:12,163 socket_client.py [line:240] run INFO node id 5 is running on pid 3390 
+2023-03-08 00:30:12,163 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3390 
+2023-03-08 00:30:49,595 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,596 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,600 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,600 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,605 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,606 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,616 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,617 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,622 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,622 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,632 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,633 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,649 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,649 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,686 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,686 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,686 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,687 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,687 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,687 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,687 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,687 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,687 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,687 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,687 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,688 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,688 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,688 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,688 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,688 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,688 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,688 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,702 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,702 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,707 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,707 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,712 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,713 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,718 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,718 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,724 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,724 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,729 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,729 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,734 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,735 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,740 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,740 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,746 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,746 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,789 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,790 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,794 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,794 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,805 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,805 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,805 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,805 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,805 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,806 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,806 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,806 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,806 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,806 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,806 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,807 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,807 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,807 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,807 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,807 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,807 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,807 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,847 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,847 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,848 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,848 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,848 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,848 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,849 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,849 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,849 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,849 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,849 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,850 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,850 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,850 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,850 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,850 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:49,851 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,851 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,894 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,895 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,899 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,900 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,900 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,900 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,905 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,905 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,906 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,906 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,907 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,907 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,907 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,907 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,907 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,907 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,908 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,908 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,947 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,948 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,958 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,958 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,959 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,959 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,963 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,964 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,964 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,964 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,964 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,965 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,965 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,965 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,969 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,969 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,974 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,975 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:49,998 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:49,998 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,004 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,004 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,010 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,011 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,016 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,016 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,017 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,017 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,017 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,017 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,018 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,018 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,018 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,018 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,018 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,019 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,022 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,022 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,022 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,023 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,023 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,023 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,023 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,023 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,023 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,023 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,023 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,024 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,024 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,024 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,024 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,024 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,028 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,028 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,074 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,075 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,075 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,075 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,075 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,076 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,076 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,076 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,076 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,077 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,077 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,078 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,078 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,078 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,079 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,079 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,079 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,079 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,181 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,181 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,186 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,186 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,186 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,187 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,187 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,187 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,191 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,192 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,197 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,197 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,197 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,197 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,198 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,198 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,202 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,202 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,250 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,251 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,251 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,251 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,251 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,251 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,252 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,252 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,252 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,252 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,252 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,252 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,252 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,253 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,253 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,253 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,253 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,253 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,261 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,261 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,261 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,262 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,262 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,262 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,262 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,262 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,262 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,263 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,263 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,263 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,263 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,263 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,263 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,264 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,272 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,272 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,272 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,273 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,273 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,273 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,273 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,274 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,274 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,274 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,274 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,274 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-08 00:30:50,283 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,283 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,284 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,284 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,284 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,284 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,285 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,285 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,366 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,366 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,367 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,367 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:30:50,367 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-08 00:30:50,367 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-08 00:33:12,922 socket_client.py [line:240] run INFO node id 5 is running on pid 3802 
+2023-03-08 00:33:12,922 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 3802 
+2023-03-08 00:35:43,444 socket_client.py [line:240] run INFO node id 5 is running on pid 4180 
+2023-03-08 00:35:43,445 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4180 
+2023-03-08 00:36:52,806 socket_client.py [line:240] run INFO node id 5 is running on pid 4545 
+2023-03-08 00:36:52,806 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4545 
+2023-03-08 00:37:55,042 socket_client.py [line:240] run INFO node id 5 is running on pid 4922 
+2023-03-08 00:37:55,042 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 4922 
+2023-03-08 00:39:27,903 socket_client.py [line:240] run INFO node id 5 is running on pid 5374 
+2023-03-08 00:39:27,904 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 5374 
+2023-03-08 00:40:36,462 socket_client.py [line:240] run INFO node id 5 is running on pid 5739 
+2023-03-08 00:40:36,462 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 5739 
+2023-03-08 00:43:12,572 socket_client.py [line:240] run INFO node id 5 is running on pid 6118 
+2023-03-08 00:43:12,572 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 6118 
+2023-03-08 00:44:03,889 socket_client.py [line:240] run INFO node id 5 is running on pid 6502 
+2023-03-08 00:44:03,889 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 6502 
+2023-03-08 00:45:04,935 socket_client.py [line:240] run INFO node id 5 is running on pid 6916 
+2023-03-08 00:45:04,935 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 6916 
+2023-03-08 00:46:50,372 socket_client.py [line:240] run INFO node id 5 is running on pid 7318 
+2023-03-08 00:46:50,373 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 7318 
+2023-03-08 00:48:13,569 socket_client.py [line:240] run INFO node id 5 is running on pid 7705 
+2023-03-08 00:48:13,569 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 7705 
+2023-03-08 14:07:33,600 socket_client.py [line:240] run INFO node id 5 is running on pid 273 
+2023-03-08 14:07:33,600 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 273 
+2023-03-08 14:10:17,841 socket_client.py [line:240] run INFO node id 5 is running on pid 492 
+2023-03-08 14:10:17,841 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 492 
+2023-03-08 14:14:45,373 socket_client.py [line:240] run INFO node id 5 is running on pid 754 
+2023-03-08 14:14:45,373 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 754 
+2023-03-08 14:18:17,954 socket_client.py [line:240] run INFO node id 5 is running on pid 1001 
+2023-03-08 14:18:17,955 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1001 
+2023-03-08 14:21:30,283 socket_client.py [line:240] run INFO node id 5 is running on pid 1775 
+2023-03-08 14:21:30,283 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 1775 
+2023-03-08 14:25:02,064 socket_client.py [line:240] run INFO node id 5 is running on pid 2124 
+2023-03-08 14:25:02,064 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2124 
+2023-03-08 14:26:45,192 socket_client.py [line:240] run INFO node id 5 is running on pid 2371 
+2023-03-08 14:26:45,192 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2371 
+2023-03-08 14:29:23,373 socket_client.py [line:240] run INFO node id 5 is running on pid 2744 
+2023-03-08 14:29:23,374 socket_client.py [line:53] _connect_and_send_forever INFO node 5's socket client starts to make outgoing connections on process id 2744 
