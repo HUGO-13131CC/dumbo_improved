@@ -399,6 +399,7 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
         # print("Round", r, "ABA outputs", aba_r)
         if aba_r == 1:
             break
+        r += 1
 
     assert a is not None
     if logger != None:
