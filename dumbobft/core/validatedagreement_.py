@@ -311,6 +311,7 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
             # print(seed)
             np.random.seed(seed)
             pi = np.random.permutation(N)
+            votes = defaultdict(set)
             r = 0
 
         a = pi[r]
