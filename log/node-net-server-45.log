@@ -1,4 +1,0 @@
-2023-03-09 07:30:32,178 socket_server.py [line:68] run INFO node id 45 is running on pid 4001137 
-2023-03-09 07:30:32,178 socket_server.py [line:34] _listen_and_recv_forever INFO node 45's socket server starts to listen ingoing connections on process id 4001137 
-2023-03-09 07:41:37,097 socket_server.py [line:68] run INFO node id 45 is running on pid 2958429 
-2023-03-09 07:41:37,098 socket_server.py [line:34] _listen_and_recv_forever INFO node 45's socket server starts to listen ingoing connections on process id 2958429 
