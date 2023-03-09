@@ -1,0 +1,1620 @@
+2023-03-09 01:52:39,275 dumbo_node.py [line:77] run INFO node 22's starts to run consensus on process id 3077800 
+2023-03-09 01:52:39,276 dumbo_node.py [line:59] prepare_bootstrap INFO node id 22 is inserting dummy payload TXs 
+2023-03-09 01:52:39,277 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,277 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,278 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,278 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,279 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,279 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,280 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,280 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,281 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,281 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,282 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,282 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,283 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,283 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,284 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,284 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,285 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,286 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,286 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,287 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,287 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,287 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,287 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,287 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,287 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,288 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,288 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,288 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,288 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,288 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,288 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,289 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,290 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,290 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,290 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,290 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,290 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,290 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,291 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,291 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,291 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,291 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,291 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,291 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,292 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,292 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,292 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,292 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,292 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,292 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,293 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,294 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,294 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,294 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,294 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,294 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,294 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,295 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,295 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,295 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,295 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,295 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,295 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,296 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,296 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,296 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,296 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,296 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,296 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,297 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,297 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,297 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,297 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,297 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,297 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,298 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,299 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,299 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,299 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,299 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,299 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,299 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:52:39,300 dumbo_node.py [line:72] prepare_bootstrap INFO node id 22 completed the loading of dummy TXs 
+2023-03-09 01:52:39,300 dumbo.py [line:179] run_bft INFO Node 22 starts to run at time:1678326759.300194 
+2023-03-09 01:52:40,870 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 0 with having 3400 TXs 
+2023-03-09 01:52:40,870 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.57047700881958 
+2023-03-09 01:52:40,870 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2164.947325497969 
+2023-03-09 01:52:42,486 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 1 with having 3400 TXs 
+2023-03-09 01:52:42,486 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6156013011932373 
+2023-03-09 01:52:42,486 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2104.4796123207234 
+2023-03-09 01:52:44,087 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 2 with having 3400 TXs 
+2023-03-09 01:52:44,087 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.601464033126831 
+2023-03-09 01:52:44,087 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2123.0573585605657 
+2023-03-09 01:52:45,716 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 3 with having 3400 TXs 
+2023-03-09 01:52:45,716 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6286230087280273 
+2023-03-09 01:52:45,716 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2087.653178039918 
+2023-03-09 01:52:47,299 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 4 with having 3400 TXs 
+2023-03-09 01:52:47,299 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5830206871032715 
+2023-03-09 01:52:47,299 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2147.792525833362 
+2023-03-09 01:52:48,914 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 5 with having 3400 TXs 
+2023-03-09 01:52:48,914 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6150381565093994 
+2023-03-09 01:52:48,914 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2105.2134194454325 
+2023-03-09 01:52:50,524 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 6 with having 3400 TXs 
+2023-03-09 01:52:50,524 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6094021797180176 
+2023-03-09 01:52:50,524 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2112.5856810978794 
+2023-03-09 01:52:52,134 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 7 with having 3400 TXs 
+2023-03-09 01:52:52,134 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.610579013824463 
+2023-03-09 01:52:52,134 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2111.042035700191 
+2023-03-09 01:52:53,675 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 8 with having 3400 TXs 
+2023-03-09 01:52:53,676 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.541114091873169 
+2023-03-09 01:52:53,676 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2206.196165442509 
+2023-03-09 01:52:55,267 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 9 with having 3400 TXs 
+2023-03-09 01:52:55,267 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5917267799377441 
+2023-03-09 01:52:55,267 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2136.0449813711 
+2023-03-09 01:52:56,903 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 10 with having 3400 TXs 
+2023-03-09 01:52:56,903 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.635826587677002 
+2023-03-09 01:52:56,903 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2078.459920882114 
+2023-03-09 01:52:58,476 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 11 with having 3400 TXs 
+2023-03-09 01:52:58,476 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.573012351989746 
+2023-03-09 01:52:58,476 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2161.457915889375 
+2023-03-09 01:53:00,086 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 12 with having 3400 TXs 
+2023-03-09 01:53:00,086 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6091928482055664 
+2023-03-09 01:53:00,086 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2112.8604963608855 
+2023-03-09 01:53:01,695 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 13 with having 3400 TXs 
+2023-03-09 01:53:01,695 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6094915866851807 
+2023-03-09 01:53:01,695 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2112.468327344569 
+2023-03-09 01:53:03,348 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 14 with having 3400 TXs 
+2023-03-09 01:53:03,349 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6532845497131348 
+2023-03-09 01:53:03,349 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2056.512292811266 
+2023-03-09 01:53:04,943 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 15 with having 3400 TXs 
+2023-03-09 01:53:04,943 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5946600437164307 
+2023-03-09 01:53:04,943 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2132.1158784891477 
+2023-03-09 01:53:06,568 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 16 with having 3400 TXs 
+2023-03-09 01:53:06,568 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6245341300964355 
+2023-03-09 01:53:06,568 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2092.907706283874 
+2023-03-09 01:53:08,135 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 17 with having 3400 TXs 
+2023-03-09 01:53:08,135 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.566892147064209 
+2023-03-09 01:53:08,135 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2169.9004659448797 
+2023-03-09 01:53:09,755 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 18 with having 3400 TXs 
+2023-03-09 01:53:09,755 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6200270652770996 
+2023-03-09 01:53:09,755 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2098.730368691984 
+2023-03-09 01:53:11,335 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 19 with having 3400 TXs 
+2023-03-09 01:53:11,335 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5799367427825928 
+2023-03-09 01:53:11,335 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2151.9848915038856 
+2023-03-09 01:53:12,988 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 20 with having 3400 TXs 
+2023-03-09 01:53:12,989 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6536171436309814 
+2023-03-09 01:53:12,989 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2056.0986641287136 
+2023-03-09 01:53:14,574 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 21 with having 3400 TXs 
+2023-03-09 01:53:14,574 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5851686000823975 
+2023-03-09 01:53:14,574 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2144.8822540537753 
+2023-03-09 01:53:16,194 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 22 with having 3400 TXs 
+2023-03-09 01:53:16,194 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6205191612243652 
+2023-03-09 01:53:16,194 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2098.0930564444348 
+2023-03-09 01:53:17,799 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 23 with having 3400 TXs 
+2023-03-09 01:53:17,800 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6050715446472168 
+2023-03-09 01:53:17,800 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2118.2856373840305 
+2023-03-09 01:53:19,396 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 24 with having 3400 TXs 
+2023-03-09 01:53:19,397 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5969066619873047 
+2023-03-09 01:53:19,397 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2129.116297735772 
+2023-03-09 01:53:21,019 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 25 with having 3400 TXs 
+2023-03-09 01:53:21,019 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6226067543029785 
+2023-03-09 01:53:21,019 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2095.393718153561 
+2023-03-09 01:53:22,652 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 26 with having 3400 TXs 
+2023-03-09 01:53:22,652 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6328301429748535 
+2023-03-09 01:53:22,652 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2082.2741511897493 
+2023-03-09 01:53:24,238 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 27 with having 3400 TXs 
+2023-03-09 01:53:24,238 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5859572887420654 
+2023-03-09 01:53:24,238 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2143.8156147929935 
+2023-03-09 01:53:25,866 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 28 with having 3400 TXs 
+2023-03-09 01:53:25,866 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6278088092803955 
+2023-03-09 01:53:25,866 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2088.697383019469 
+2023-03-09 01:53:27,526 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 29 with having 3400 TXs 
+2023-03-09 01:53:27,526 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6601495742797852 
+2023-03-09 01:53:27,526 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2048.0082353272333 
+2023-03-09 01:53:29,081 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 30 with having 3400 TXs 
+2023-03-09 01:53:29,081 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5544252395629883 
+2023-03-09 01:53:29,081 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2187.303649904628 
+2023-03-09 01:53:30,742 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 31 with having 3400 TXs 
+2023-03-09 01:53:30,742 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6615681648254395 
+2023-03-09 01:53:30,742 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2046.2597153558224 
+2023-03-09 01:53:32,279 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 32 with having 3400 TXs 
+2023-03-09 01:53:32,279 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5365495681762695 
+2023-03-09 01:53:32,279 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2212.749962915586 
+2023-03-09 01:53:33,892 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 33 with having 3400 TXs 
+2023-03-09 01:53:33,892 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6133909225463867 
+2023-03-09 01:53:33,892 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2107.3627925424544 
+2023-03-09 01:53:35,485 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 34 with having 3400 TXs 
+2023-03-09 01:53:35,485 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.592775821685791 
+2023-03-09 01:53:35,485 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2134.638129050356 
+2023-03-09 01:53:37,055 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 35 with having 3400 TXs 
+2023-03-09 01:53:37,055 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5694530010223389 
+2023-03-09 01:53:37,055 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2166.3598704677656 
+2023-03-09 01:53:38,669 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 36 with having 3400 TXs 
+2023-03-09 01:53:38,669 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6138341426849365 
+2023-03-09 01:53:38,669 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2106.784030695632 
+2023-03-09 01:53:40,235 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 37 with having 3400 TXs 
+2023-03-09 01:53:40,235 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5665521621704102 
+2023-03-09 01:53:40,235 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2170.371394010528 
+2023-03-09 01:53:41,824 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 38 with having 3400 TXs 
+2023-03-09 01:53:41,824 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5890307426452637 
+2023-03-09 01:53:41,824 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2139.6691132230776 
+2023-03-09 01:53:43,385 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 39 with having 3400 TXs 
+2023-03-09 01:53:43,385 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5603511333465576 
+2023-03-09 01:53:43,385 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2178.996718967904 
+2023-03-09 01:53:45,000 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 40 with having 3400 TXs 
+2023-03-09 01:53:45,000 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6153028011322021 
+2023-03-09 01:53:45,000 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2104.8685098650626 
+2023-03-09 01:53:46,622 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 41 with having 3400 TXs 
+2023-03-09 01:53:46,622 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6214730739593506 
+2023-03-09 01:53:46,622 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2096.8587481368413 
+2023-03-09 01:53:48,264 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 42 with having 3400 TXs 
+2023-03-09 01:53:48,264 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6421070098876953 
+2023-03-09 01:53:48,264 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2070.510618082392 
+2023-03-09 01:53:49,883 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 43 with having 3400 TXs 
+2023-03-09 01:53:49,883 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6193466186523438 
+2023-03-09 01:53:49,883 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2099.6122515323837 
+2023-03-09 01:53:51,483 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 44 with having 3400 TXs 
+2023-03-09 01:53:51,483 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.599395751953125 
+2023-03-09 01:53:51,483 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2125.802820126314 
+2023-03-09 01:53:53,051 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 45 with having 3400 TXs 
+2023-03-09 01:53:53,052 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5687625408172607 
+2023-03-09 01:53:53,052 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2167.313351470478 
+2023-03-09 01:53:54,670 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 46 with having 3400 TXs 
+2023-03-09 01:53:54,670 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6186096668243408 
+2023-03-09 01:53:54,670 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2100.568203494477 
+2023-03-09 01:53:56,308 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 47 with having 3400 TXs 
+2023-03-09 01:53:56,308 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6377220153808594 
+2023-03-09 01:53:56,308 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2076.0544024373485 
+2023-03-09 01:53:57,929 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 48 with having 3400 TXs 
+2023-03-09 01:53:57,929 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6207797527313232 
+2023-03-09 01:53:57,929 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2097.755721756982 
+2023-03-09 01:53:59,508 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 49 with having 3400 TXs 
+2023-03-09 01:53:59,508 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5792160034179688 
+2023-03-09 01:53:59,508 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2152.9670372141786 
+2023-03-09 01:54:01,111 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 50 with having 3400 TXs 
+2023-03-09 01:54:01,112 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6033539772033691 
+2023-03-09 01:54:01,112 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2120.5548171779315 
+2023-03-09 01:54:02,716 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 51 with having 3400 TXs 
+2023-03-09 01:54:02,716 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6045467853546143 
+2023-03-09 01:54:02,716 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2118.9784124920857 
+2023-03-09 01:54:04,377 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 52 with having 3400 TXs 
+2023-03-09 01:54:04,377 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6611902713775635 
+2023-03-09 01:54:04,377 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2046.725205764964 
+2023-03-09 01:54:05,975 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 53 with having 3400 TXs 
+2023-03-09 01:54:05,975 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5979292392730713 
+2023-03-09 01:54:05,975 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2127.7537931196034 
+2023-03-09 01:54:07,588 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 54 with having 3400 TXs 
+2023-03-09 01:54:07,588 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6129536628723145 
+2023-03-09 01:54:07,588 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2107.9340828336944 
+2023-03-09 01:54:09,201 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 55 with having 3400 TXs 
+2023-03-09 01:54:09,201 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.612544298171997 
+2023-03-09 01:54:09,201 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2108.4692084764974 
+2023-03-09 01:54:10,824 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 56 with having 3400 TXs 
+2023-03-09 01:54:10,824 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6226527690887451 
+2023-03-09 01:54:10,824 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2095.3342974969214 
+2023-03-09 01:54:12,403 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 57 with having 3400 TXs 
+2023-03-09 01:54:12,404 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5797135829925537 
+2023-03-09 01:54:12,404 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2152.2888937620955 
+2023-03-09 01:54:14,025 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 58 with having 3400 TXs 
+2023-03-09 01:54:14,025 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6212306022644043 
+2023-03-09 01:54:14,025 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2097.1723549081507 
+2023-03-09 01:54:15,632 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 59 with having 3400 TXs 
+2023-03-09 01:54:15,633 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6075801849365234 
+2023-03-09 01:54:15,633 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2114.9800376111575 
+2023-03-09 01:54:17,259 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 60 with having 3400 TXs 
+2023-03-09 01:54:17,259 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6260480880737305 
+2023-03-09 01:54:17,259 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2090.9590712214117 
+2023-03-09 01:54:18,887 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 61 with having 3400 TXs 
+2023-03-09 01:54:18,887 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.628324031829834 
+2023-03-09 01:54:18,887 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2088.0364924536793 
+2023-03-09 01:54:20,494 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 62 with having 3400 TXs 
+2023-03-09 01:54:20,495 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6075713634490967 
+2023-03-09 01:54:20,495 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2114.99164348461 
+2023-03-09 01:54:22,119 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 63 with having 3400 TXs 
+2023-03-09 01:54:22,119 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6240038871765137 
+2023-03-09 01:54:22,119 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2093.5910479322965 
+2023-03-09 01:54:23,733 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 64 with having 3400 TXs 
+2023-03-09 01:54:23,734 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6148133277893066 
+2023-03-09 01:54:23,734 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2105.5065260420097 
+2023-03-09 01:54:25,360 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 65 with having 3400 TXs 
+2023-03-09 01:54:25,360 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6260921955108643 
+2023-03-09 01:54:25,360 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2090.902354359946 
+2023-03-09 01:54:26,932 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 66 with having 3400 TXs 
+2023-03-09 01:54:26,932 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5723483562469482 
+2023-03-09 01:54:26,932 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2162.370689988502 
+2023-03-09 01:54:28,530 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 67 with having 3400 TXs 
+2023-03-09 01:54:28,530 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5976855754852295 
+2023-03-09 01:54:28,530 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2128.0782978637044 
+2023-03-09 01:54:30,185 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 68 with having 3400 TXs 
+2023-03-09 01:54:30,185 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6548116207122803 
+2023-03-09 01:54:30,185 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2054.614529801609 
+2023-03-09 01:54:31,796 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 69 with having 3400 TXs 
+2023-03-09 01:54:31,796 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6113545894622803 
+2023-03-09 01:54:31,796 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2110.025950982398 
+2023-03-09 01:54:33,417 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 70 with having 3400 TXs 
+2023-03-09 01:54:33,417 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6208221912384033 
+2023-03-09 01:54:33,417 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2097.700795546364 
+2023-03-09 01:54:35,022 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 71 with having 3400 TXs 
+2023-03-09 01:54:35,022 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6049344539642334 
+2023-03-09 01:54:35,022 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2118.466577623718 
+2023-03-09 01:54:36,623 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 72 with having 3400 TXs 
+2023-03-09 01:54:36,623 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6005711555480957 
+2023-03-09 01:54:36,623 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2124.24170472803 
+2023-03-09 01:54:38,246 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 73 with having 3400 TXs 
+2023-03-09 01:54:38,246 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6235136985778809 
+2023-03-09 01:54:38,246 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2094.223167305724 
+2023-03-09 01:54:39,887 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 74 with having 3400 TXs 
+2023-03-09 01:54:39,887 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.640326738357544 
+2023-03-09 01:54:39,887 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2072.757774712868 
+2023-03-09 01:54:41,465 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 75 with having 3400 TXs 
+2023-03-09 01:54:41,465 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5780553817749023 
+2023-03-09 01:54:41,465 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2154.5504925029204 
+2023-03-09 01:54:43,063 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 76 with having 3400 TXs 
+2023-03-09 01:54:43,063 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.598076343536377 
+2023-03-09 01:54:43,063 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2127.5579316042895 
+2023-03-09 01:54:44,700 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 77 with having 3400 TXs 
+2023-03-09 01:54:44,700 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.636986255645752 
+2023-03-09 01:54:44,700 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2076.9875057129184 
+2023-03-09 01:54:46,303 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 78 with having 3400 TXs 
+2023-03-09 01:54:46,303 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6032404899597168 
+2023-03-09 01:54:46,303 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2120.704923118196 
+2023-03-09 01:54:47,933 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 79 with having 3400 TXs 
+2023-03-09 01:54:47,933 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6294662952423096 
+2023-03-09 01:54:47,933 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2086.5727692111627 
+2023-03-09 01:54:49,562 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 80 with having 3400 TXs 
+2023-03-09 01:54:49,562 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.629342794418335 
+2023-03-09 01:54:49,562 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2086.73092712438 
+2023-03-09 01:54:51,205 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 81 with having 3400 TXs 
+2023-03-09 01:54:51,205 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6426730155944824 
+2023-03-09 01:54:51,205 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2069.797195012388 
+2023-03-09 01:54:52,809 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 82 with having 3400 TXs 
+2023-03-09 01:54:52,809 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.604217767715454 
+2023-03-09 01:54:52,809 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2119.4130051569596 
+2023-03-09 01:54:54,422 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 83 with having 3400 TXs 
+2023-03-09 01:54:54,422 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.613039255142212 
+2023-03-09 01:54:54,422 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2107.8222300921266 
+2023-03-09 01:54:56,014 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 84 with having 3400 TXs 
+2023-03-09 01:54:56,014 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5914428234100342 
+2023-03-09 01:54:56,014 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2136.4261096824794 
+2023-03-09 01:54:57,644 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 85 with having 3400 TXs 
+2023-03-09 01:54:57,644 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6305608749389648 
+2023-03-09 01:54:57,645 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2085.1720731538276 
+2023-03-09 01:54:59,243 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 86 with having 3400 TXs 
+2023-03-09 01:54:59,243 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5985684394836426 
+2023-03-09 01:54:59,243 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2126.902993967679 
+2023-03-09 01:55:00,869 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 87 with having 3400 TXs 
+2023-03-09 01:55:00,869 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6262753009796143 
+2023-03-09 01:55:00,869 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2090.666935636268 
+2023-03-09 01:55:02,471 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 88 with having 3400 TXs 
+2023-03-09 01:55:02,471 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6017727851867676 
+2023-03-09 01:55:02,471 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2122.648125528964 
+2023-03-09 01:55:04,115 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 89 with having 3400 TXs 
+2023-03-09 01:55:04,115 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6438069343566895 
+2023-03-09 01:55:04,115 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2068.369422793927 
+2023-03-09 01:55:05,719 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 90 with having 3400 TXs 
+2023-03-09 01:55:05,719 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6041247844696045 
+2023-03-09 01:55:05,719 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2119.5358571335787 
+2023-03-09 01:55:07,335 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 91 with having 3400 TXs 
+2023-03-09 01:55:07,335 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6157584190368652 
+2023-03-09 01:55:07,335 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2104.274970776077 
+2023-03-09 01:55:08,965 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 92 with having 3400 TXs 
+2023-03-09 01:55:08,965 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6297607421875 
+2023-03-09 01:55:08,965 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2086.195790577485 
+2023-03-09 01:55:10,605 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 93 with having 3400 TXs 
+2023-03-09 01:55:10,605 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6398732662200928 
+2023-03-09 01:55:10,605 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2073.3309518710544 
+2023-03-09 01:55:12,248 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 94 with having 3400 TXs 
+2023-03-09 01:55:12,248 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6433260440826416 
+2023-03-09 01:55:12,248 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2068.9746944879653 
+2023-03-09 01:55:13,874 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 95 with having 3400 TXs 
+2023-03-09 01:55:13,874 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6260058879852295 
+2023-03-09 01:55:13,874 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2091.013338342158 
+2023-03-09 01:55:15,500 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 96 with having 3400 TXs 
+2023-03-09 01:55:15,500 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6254010200500488 
+2023-03-09 01:55:15,500 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2091.7914767244997 
+2023-03-09 01:55:17,088 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 97 with having 3400 TXs 
+2023-03-09 01:55:17,088 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.5884146690368652 
+2023-03-09 01:55:17,088 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2140.498993289699 
+2023-03-09 01:55:18,705 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 98 with having 3400 TXs 
+2023-03-09 01:55:18,705 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.6163127422332764 
+2023-03-09 01:55:18,705 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2103.5532982943537 
+2023-03-09 01:55:20,314 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 99 with having 3400 TXs 
+2023-03-09 01:55:20,314 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 1.609072208404541 
+2023-03-09 01:55:20,314 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 2113.0189075673834 
+2023-03-09 01:55:20,314 dumbo.py [line:241] run_bft INFO node 22 breaks in 161.014261 seconds with total delivered Txs 340000 
+2023-03-09 01:56:12,361 dumbo_node.py [line:77] run INFO node 22's starts to run consensus on process id 1116223 
+2023-03-09 01:56:12,361 dumbo_node.py [line:59] prepare_bootstrap INFO node id 22 is inserting dummy payload TXs 
+2023-03-09 01:56:12,362 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,362 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,362 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,362 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,363 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,363 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,363 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,363 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,364 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,364 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,364 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,364 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,365 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,365 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,365 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,365 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,365 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,366 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,366 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,366 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,367 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,367 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,367 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,367 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,367 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,367 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,368 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,369 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,370 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,371 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,372 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,373 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,374 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,375 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,376 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,377 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,378 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,378 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 01:56:12,378 dumbo_node.py [line:72] prepare_bootstrap INFO node id 22 completed the loading of dummy TXs 
+2023-03-09 01:56:12,378 dumbo.py [line:179] run_bft INFO Node 22 starts to run at time:1678326972.378508 
+2023-03-09 01:56:16,057 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 0 with having 3450 TXs 
+2023-03-09 01:56:16,058 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6794381141662598 
+2023-03-09 01:56:16,058 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 937.6431653292668 
+2023-03-09 01:56:19,726 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 1 with having 3450 TXs 
+2023-03-09 01:56:19,727 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.668931722640991 
+2023-03-09 01:56:19,727 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 940.3282101735601 
+2023-03-09 01:56:23,232 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 2 with having 3450 TXs 
+2023-03-09 01:56:23,233 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.505922794342041 
+2023-03-09 01:56:23,233 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 984.0490513846195 
+2023-03-09 01:56:26,912 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 3 with having 3450 TXs 
+2023-03-09 01:56:26,912 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.679882526397705 
+2023-03-09 01:56:26,912 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 937.5299279939948 
+2023-03-09 01:56:30,569 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 4 with having 3450 TXs 
+2023-03-09 01:56:30,569 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.656578779220581 
+2023-03-09 01:56:30,569 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 943.5049012496281 
+2023-03-09 01:56:34,123 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 5 with having 3450 TXs 
+2023-03-09 01:56:34,123 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.554142951965332 
+2023-03-09 01:56:34,123 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 970.6981532896014 
+2023-03-09 01:56:37,700 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 6 with having 3450 TXs 
+2023-03-09 01:56:37,701 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.577162265777588 
+2023-03-09 01:56:37,701 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 964.4516361490954 
+2023-03-09 01:56:41,316 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 7 with having 3450 TXs 
+2023-03-09 01:56:41,316 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6155214309692383 
+2023-03-09 01:56:41,316 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 954.2192090049745 
+2023-03-09 01:56:44,951 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 8 with having 3450 TXs 
+2023-03-09 01:56:44,951 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6350772380828857 
+2023-03-09 01:56:44,951 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 949.0857481255352 
+2023-03-09 01:56:48,526 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 9 with having 3450 TXs 
+2023-03-09 01:56:48,526 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.574921131134033 
+2023-03-09 01:56:48,526 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 965.0562553545326 
+2023-03-09 01:56:52,164 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 10 with having 3450 TXs 
+2023-03-09 01:56:52,164 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6379199028015137 
+2023-03-09 01:56:52,164 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 948.3441340594665 
+2023-03-09 01:56:55,802 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 11 with having 3450 TXs 
+2023-03-09 01:56:55,802 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.638080358505249 
+2023-03-09 01:56:55,802 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 948.302307818587 
+2023-03-09 01:56:59,431 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 12 with having 3450 TXs 
+2023-03-09 01:56:59,432 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.629059314727783 
+2023-03-09 01:56:59,432 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 950.6595789159168 
+2023-03-09 01:57:02,993 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 13 with having 3450 TXs 
+2023-03-09 01:57:02,993 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.561141014099121 
+2023-03-09 01:57:02,993 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 968.790616923313 
+2023-03-09 01:57:06,594 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 14 with having 3450 TXs 
+2023-03-09 01:57:06,594 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6011228561401367 
+2023-03-09 01:57:06,594 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 958.0345180719222 
+2023-03-09 01:57:10,236 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 15 with having 3450 TXs 
+2023-03-09 01:57:10,236 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6418962478637695 
+2023-03-09 01:57:10,236 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.3086999728973 
+2023-03-09 01:57:13,955 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 16 with having 3450 TXs 
+2023-03-09 01:57:13,955 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.718982458114624 
+2023-03-09 01:57:13,955 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 927.6731038277101 
+2023-03-09 01:57:17,514 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 17 with having 3450 TXs 
+2023-03-09 01:57:17,514 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5588860511779785 
+2023-03-09 01:57:17,514 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 969.404457009255 
+2023-03-09 01:57:21,123 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 18 with having 3450 TXs 
+2023-03-09 01:57:21,123 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6093344688415527 
+2023-03-09 01:57:21,123 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 955.8548895323928 
+2023-03-09 01:57:24,768 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 19 with having 3450 TXs 
+2023-03-09 01:57:24,768 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6445138454437256 
+2023-03-09 01:57:24,768 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 946.6283148610063 
+2023-03-09 01:57:28,372 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 20 with having 3450 TXs 
+2023-03-09 01:57:28,372 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.604022264480591 
+2023-03-09 01:57:28,372 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.2637866312436 
+2023-03-09 01:57:32,014 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 21 with having 3450 TXs 
+2023-03-09 01:57:32,015 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.642536163330078 
+2023-03-09 01:57:32,015 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.1422781554328 
+2023-03-09 01:57:35,625 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 22 with having 3450 TXs 
+2023-03-09 01:57:35,625 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.610214948654175 
+2023-03-09 01:57:35,625 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 955.6217701901932 
+2023-03-09 01:57:39,281 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 23 with having 3450 TXs 
+2023-03-09 01:57:39,281 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6562769412994385 
+2023-03-09 01:57:39,281 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 943.5827907428347 
+2023-03-09 01:57:42,849 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 24 with having 3450 TXs 
+2023-03-09 01:57:42,849 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5681779384613037 
+2023-03-09 01:57:42,850 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 966.8800321902486 
+2023-03-09 01:57:46,490 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 25 with having 3450 TXs 
+2023-03-09 01:57:46,490 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.640674591064453 
+2023-03-09 01:57:46,490 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.6265768073757 
+2023-03-09 01:57:50,113 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 26 with having 3450 TXs 
+2023-03-09 01:57:50,113 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.622772455215454 
+2023-03-09 01:57:50,113 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 952.30932735874 
+2023-03-09 01:57:53,734 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 27 with having 3450 TXs 
+2023-03-09 01:57:53,734 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6206984519958496 
+2023-03-09 01:57:53,734 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 952.8548278021455 
+2023-03-09 01:57:57,319 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 28 with having 3450 TXs 
+2023-03-09 01:57:57,319 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5855534076690674 
+2023-03-09 01:57:57,320 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 962.1945646161246 
+2023-03-09 01:58:00,913 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 29 with having 3450 TXs 
+2023-03-09 01:58:00,914 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.594022512435913 
+2023-03-09 01:58:00,914 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 959.9272091542077 
+2023-03-09 01:58:04,564 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 30 with having 3450 TXs 
+2023-03-09 01:58:04,564 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.65002703666687 
+2023-03-09 01:58:04,564 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 945.1984780777046 
+2023-03-09 01:58:08,155 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 31 with having 3450 TXs 
+2023-03-09 01:58:08,155 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.591097354888916 
+2023-03-09 01:58:08,155 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 960.7091256668867 
+2023-03-09 01:58:11,784 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 32 with having 3450 TXs 
+2023-03-09 01:58:11,784 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.629542827606201 
+2023-03-09 01:58:11,784 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 950.5329359277418 
+2023-03-09 01:58:15,388 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 33 with having 3450 TXs 
+2023-03-09 01:58:15,388 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.603198289871216 
+2023-03-09 01:58:15,388 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.4826924452467 
+2023-03-09 01:58:19,022 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 34 with having 3450 TXs 
+2023-03-09 01:58:19,023 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.634827136993408 
+2023-03-09 01:58:19,023 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 949.1510517481472 
+2023-03-09 01:58:22,668 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 35 with having 3450 TXs 
+2023-03-09 01:58:22,668 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6457388401031494 
+2023-03-09 01:58:22,668 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 946.3102408899889 
+2023-03-09 01:58:26,284 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 36 with having 3450 TXs 
+2023-03-09 01:58:26,285 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6160788536071777 
+2023-03-09 01:58:26,285 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 954.0721150365657 
+2023-03-09 01:58:29,841 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 37 with having 3450 TXs 
+2023-03-09 01:58:29,841 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.55621337890625 
+2023-03-09 01:58:29,841 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 970.1330129580366 
+2023-03-09 01:58:33,482 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 38 with having 3450 TXs 
+2023-03-09 01:58:33,482 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6408329010009766 
+2023-03-09 01:58:33,482 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.58537230629 
+2023-03-09 01:58:37,121 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 39 with having 3450 TXs 
+2023-03-09 01:58:37,122 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.639718532562256 
+2023-03-09 01:58:37,122 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.8754934303396 
+2023-03-09 01:58:40,725 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 40 with having 3450 TXs 
+2023-03-09 01:58:40,725 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.603809356689453 
+2023-03-09 01:58:40,725 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.3203403770653 
+2023-03-09 01:58:44,313 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 41 with having 3450 TXs 
+2023-03-09 01:58:44,313 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5879008769989014 
+2023-03-09 01:58:44,313 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 961.5650259785748 
+2023-03-09 01:58:47,916 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 42 with having 3450 TXs 
+2023-03-09 01:58:47,916 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6027393341064453 
+2023-03-09 01:58:47,916 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.6046669098452 
+2023-03-09 01:58:51,515 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 43 with having 3450 TXs 
+2023-03-09 01:58:51,515 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5989112854003906 
+2023-03-09 01:58:51,515 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 958.623240866071 
+2023-03-09 01:58:55,223 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 44 with having 3450 TXs 
+2023-03-09 01:58:55,223 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.707486629486084 
+2023-03-09 01:58:55,223 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 930.5495460352407 
+2023-03-09 01:58:58,783 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 45 with having 3450 TXs 
+2023-03-09 01:58:58,783 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.559981107711792 
+2023-03-09 01:58:58,783 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 969.1062664704748 
+2023-03-09 01:59:02,289 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 46 with having 3450 TXs 
+2023-03-09 01:59:02,289 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5057666301727295 
+2023-03-09 01:59:02,289 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 984.0928857920067 
+2023-03-09 01:59:05,940 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 47 with having 3450 TXs 
+2023-03-09 01:59:05,940 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6510822772979736 
+2023-03-09 01:59:05,940 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 944.9252955628305 
+2023-03-09 01:59:09,507 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 48 with having 3450 TXs 
+2023-03-09 01:59:09,507 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5673305988311768 
+2023-03-09 01:59:09,507 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 967.1096929256796 
+2023-03-09 01:59:13,241 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 49 with having 3450 TXs 
+2023-03-09 01:59:13,242 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.7343828678131104 
+2023-03-09 01:59:13,242 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 923.8474259658202 
+2023-03-09 01:59:16,955 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 50 with having 3450 TXs 
+2023-03-09 01:59:16,955 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.7134737968444824 
+2023-03-09 01:59:16,955 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 929.0492376522574 
+2023-03-09 01:59:20,543 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 51 with having 3450 TXs 
+2023-03-09 01:59:20,543 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5881547927856445 
+2023-03-09 01:59:20,543 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 961.4969808260728 
+2023-03-09 01:59:24,074 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 52 with having 3450 TXs 
+2023-03-09 01:59:24,074 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.530411958694458 
+2023-03-09 01:59:24,074 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 977.2230664196497 
+2023-03-09 01:59:27,733 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 53 with having 3450 TXs 
+2023-03-09 01:59:27,734 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6596250534057617 
+2023-03-09 01:59:27,734 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 942.7195271792453 
+2023-03-09 01:59:31,265 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 54 with having 3450 TXs 
+2023-03-09 01:59:31,266 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5318989753723145 
+2023-03-09 01:59:31,266 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 976.8116313792126 
+2023-03-09 01:59:34,830 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 55 with having 3450 TXs 
+2023-03-09 01:59:34,830 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5645945072174072 
+2023-03-09 01:59:34,830 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 967.8520216015083 
+2023-03-09 01:59:38,567 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 56 with having 3450 TXs 
+2023-03-09 01:59:38,567 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.737203359603882 
+2023-03-09 01:59:38,568 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 923.1501922779167 
+2023-03-09 01:59:42,174 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 57 with having 3450 TXs 
+2023-03-09 01:59:42,174 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.606513500213623 
+2023-03-09 01:59:42,174 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 956.6025469738704 
+2023-03-09 01:59:45,663 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 58 with having 3450 TXs 
+2023-03-09 01:59:45,663 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.4886040687561035 
+2023-03-09 01:59:45,663 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 988.9342361600042 
+2023-03-09 01:59:49,279 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 59 with having 3450 TXs 
+2023-03-09 01:59:49,279 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6158807277679443 
+2023-03-09 01:59:49,279 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 954.1243917438778 
+2023-03-09 01:59:52,956 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 60 with having 3450 TXs 
+2023-03-09 01:59:52,957 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.677886962890625 
+2023-03-09 01:59:52,957 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 938.0386169586034 
+2023-03-09 01:59:56,547 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 61 with having 3450 TXs 
+2023-03-09 01:59:56,547 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.590205192565918 
+2023-03-09 01:59:56,547 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 960.9478609032612 
+2023-03-09 02:00:00,197 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 62 with having 3450 TXs 
+2023-03-09 02:00:00,198 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6504883766174316 
+2023-03-09 02:00:00,198 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 945.0790261649304 
+2023-03-09 02:00:03,800 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 63 with having 3450 TXs 
+2023-03-09 02:00:03,800 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6022891998291016 
+2023-03-09 02:00:03,800 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.7243271205637 
+2023-03-09 02:00:07,441 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 64 with having 3450 TXs 
+2023-03-09 02:00:07,442 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.641580104827881 
+2023-03-09 02:00:07,442 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.390940384947 
+2023-03-09 02:00:11,031 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 65 with having 3450 TXs 
+2023-03-09 02:00:11,032 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5899620056152344 
+2023-03-09 02:00:11,032 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 961.0129562941577 
+2023-03-09 02:00:14,658 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 66 with having 3450 TXs 
+2023-03-09 02:00:14,658 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6262965202331543 
+2023-03-09 02:00:14,658 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 951.3838652604671 
+2023-03-09 02:00:18,281 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 67 with having 3450 TXs 
+2023-03-09 02:00:18,281 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.623279094696045 
+2023-03-09 02:00:18,281 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 952.1761669009433 
+2023-03-09 02:00:21,878 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 68 with having 3450 TXs 
+2023-03-09 02:00:21,878 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5963027477264404 
+2023-03-09 02:00:21,878 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 959.318567431807 
+2023-03-09 02:00:25,520 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 69 with having 3450 TXs 
+2023-03-09 02:00:25,520 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6427040100097656 
+2023-03-09 02:00:25,520 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 947.0986362108381 
+2023-03-09 02:00:29,152 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 70 with having 3450 TXs 
+2023-03-09 02:00:29,152 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6319282054901123 
+2023-03-09 02:00:29,152 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 949.9086448859024 
+2023-03-09 02:00:32,818 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 71 with having 3450 TXs 
+2023-03-09 02:00:32,818 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6656484603881836 
+2023-03-09 02:00:32,818 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 941.1704469977061 
+2023-03-09 02:00:36,515 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 72 with having 3450 TXs 
+2023-03-09 02:00:36,515 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.697051763534546 
+2023-03-09 02:00:36,515 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 933.1760063596314 
+2023-03-09 02:00:40,035 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 73 with having 3450 TXs 
+2023-03-09 02:00:40,036 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5203475952148438 
+2023-03-09 02:00:40,036 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 980.0168610308635 
+2023-03-09 02:00:43,693 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 74 with having 3450 TXs 
+2023-03-09 02:00:43,693 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.657249927520752 
+2023-03-09 02:00:43,693 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 943.3317570228933 
+2023-03-09 02:00:47,329 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 75 with having 3450 TXs 
+2023-03-09 02:00:47,329 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6356985569000244 
+2023-03-09 02:00:47,329 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 948.9235551314903 
+2023-03-09 02:00:51,003 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 76 with having 3450 TXs 
+2023-03-09 02:00:51,003 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.674023389816284 
+2023-03-09 02:00:51,003 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 939.0250507285185 
+2023-03-09 02:00:54,514 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 77 with having 3450 TXs 
+2023-03-09 02:00:54,515 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5116195678710938 
+2023-03-09 02:00:54,515 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 982.4526641681604 
+2023-03-09 02:00:58,173 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 78 with having 3450 TXs 
+2023-03-09 02:00:58,174 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.658914804458618 
+2023-03-09 02:00:58,174 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 942.9025228452867 
+2023-03-09 02:01:01,776 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 79 with having 3450 TXs 
+2023-03-09 02:01:01,776 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.602360725402832 
+2023-03-09 02:01:01,776 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.7053113175405 
+2023-03-09 02:01:05,375 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 80 with having 3450 TXs 
+2023-03-09 02:01:05,375 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.599093437194824 
+2023-03-09 02:01:05,375 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 958.5747244975587 
+2023-03-09 02:01:08,966 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 81 with having 3450 TXs 
+2023-03-09 02:01:08,966 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5908703804016113 
+2023-03-09 02:01:08,966 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 960.7698509056581 
+2023-03-09 02:01:12,627 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 82 with having 3450 TXs 
+2023-03-09 02:01:12,628 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.661473512649536 
+2023-03-09 02:01:12,628 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 942.2436044070934 
+2023-03-09 02:01:16,190 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 83 with having 3450 TXs 
+2023-03-09 02:01:16,190 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.562657594680786 
+2023-03-09 02:01:16,190 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 968.3782143843997 
+2023-03-09 02:01:19,896 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 84 with having 3450 TXs 
+2023-03-09 02:01:19,896 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.70522141456604 
+2023-03-09 02:01:19,896 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 931.1184444841249 
+2023-03-09 02:01:23,526 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 85 with having 3450 TXs 
+2023-03-09 02:01:23,526 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.630063056945801 
+2023-03-09 02:01:23,526 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 950.3967137426811 
+2023-03-09 02:01:27,151 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 86 with having 3450 TXs 
+2023-03-09 02:01:27,151 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6255197525024414 
+2023-03-09 02:01:27,151 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 951.58769928607 
+2023-03-09 02:01:30,832 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 87 with having 3450 TXs 
+2023-03-09 02:01:30,832 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6803784370422363 
+2023-03-09 02:01:30,832 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 937.4036010200674 
+2023-03-09 02:01:34,446 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 88 with having 3450 TXs 
+2023-03-09 02:01:34,446 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6145145893096924 
+2023-03-09 02:01:34,446 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 954.4850116814408 
+2023-03-09 02:01:38,141 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 89 with having 3450 TXs 
+2023-03-09 02:01:38,141 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.694742441177368 
+2023-03-09 02:01:38,141 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 933.7592687247292 
+2023-03-09 02:01:41,674 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 90 with having 3450 TXs 
+2023-03-09 02:01:41,674 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.532480239868164 
+2023-03-09 02:01:41,674 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 976.6508984431737 
+2023-03-09 02:01:45,249 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 91 with having 3450 TXs 
+2023-03-09 02:01:45,249 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5747885704040527 
+2023-03-09 02:01:45,249 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 965.092041684035 
+2023-03-09 02:01:48,905 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 92 with having 3450 TXs 
+2023-03-09 02:01:48,905 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.656153440475464 
+2023-03-09 02:01:48,905 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 943.6146639270548 
+2023-03-09 02:01:52,505 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 93 with having 3450 TXs 
+2023-03-09 02:01:52,506 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.60067081451416 
+2023-03-09 02:01:52,506 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 958.1547932938462 
+2023-03-09 02:01:56,128 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 94 with having 3450 TXs 
+2023-03-09 02:01:56,128 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.622278928756714 
+2023-03-09 02:01:56,128 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 952.439077126552 
+2023-03-09 02:01:59,702 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 95 with having 3450 TXs 
+2023-03-09 02:01:59,702 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5741963386535645 
+2023-03-09 02:01:59,702 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 965.251954037771 
+2023-03-09 02:02:03,337 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 96 with having 3450 TXs 
+2023-03-09 02:02:03,337 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6344659328460693 
+2023-03-09 02:02:03,337 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 949.2453812322246 
+2023-03-09 02:02:06,929 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 97 with having 3450 TXs 
+2023-03-09 02:02:06,929 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.5925891399383545 
+2023-03-09 02:02:06,929 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 960.3102012547972 
+2023-03-09 02:02:10,533 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 98 with having 3450 TXs 
+2023-03-09 02:02:10,533 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6037850379943848 
+2023-03-09 02:02:10,533 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 957.326800468662 
+2023-03-09 02:02:14,148 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 99 with having 3450 TXs 
+2023-03-09 02:02:14,148 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 3.6148407459259033 
+2023-03-09 02:02:14,148 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 954.398891261894 
+2023-03-09 02:02:14,148 dumbo.py [line:241] run_bft INFO node 22 breaks in 361.770146 seconds with total delivered Txs 345000 
+2023-03-09 02:05:00,658 dumbo_node.py [line:77] run INFO node 22's starts to run consensus on process id 2770662 
+2023-03-09 02:05:00,658 dumbo_node.py [line:59] prepare_bootstrap INFO node id 22 is inserting dummy payload TXs 
+2023-03-09 02:05:00,659 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,659 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,659 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,660 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,660 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,660 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,660 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,661 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,661 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,661 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,661 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,661 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,661 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,662 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,662 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,662 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,662 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,662 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,663 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,663 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,663 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,663 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,663 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,663 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,664 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,664 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,664 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,664 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,664 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,665 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,665 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,665 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,665 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,665 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,665 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,666 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,666 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,666 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,666 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,666 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,667 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,667 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,667 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,667 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,667 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,667 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,668 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,668 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,668 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,668 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,668 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,669 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,669 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,669 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,669 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,669 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,670 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,670 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,670 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,670 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,670 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,670 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,671 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,671 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,671 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,671 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,671 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,672 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,672 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,672 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,672 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,672 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,672 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,673 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,673 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,673 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,673 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,673 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,674 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,674 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,674 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,674 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,674 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,674 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,675 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,675 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,675 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,675 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,675 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,675 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,676 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,676 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,676 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,676 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,676 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,677 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,677 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,677 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,677 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,677 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:05:00,677 dumbo_node.py [line:72] prepare_bootstrap INFO node id 22 completed the loading of dummy TXs 
+2023-03-09 02:05:00,678 dumbo.py [line:179] run_bft INFO Node 22 starts to run at time:1678327500.677999 
+2023-03-09 02:05:08,208 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 0 with having 3366 TXs 
+2023-03-09 02:05:08,208 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.530489444732666 
+2023-03-09 02:05:08,208 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 446.98289861549546 
+2023-03-09 02:05:15,713 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 1 with having 3366 TXs 
+2023-03-09 02:05:15,714 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.50545597076416 
+2023-03-09 02:05:15,714 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 448.4737520427149 
+2023-03-09 02:05:22,923 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 2 with having 3366 TXs 
+2023-03-09 02:05:22,923 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.209230184555054 
+2023-03-09 02:05:22,923 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 466.9014463168714 
+2023-03-09 02:05:30,308 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 3 with having 3366 TXs 
+2023-03-09 02:05:30,308 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.384695053100586 
+2023-03-09 02:05:30,308 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.80758254692313 
+2023-03-09 02:05:37,747 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 4 with having 3366 TXs 
+2023-03-09 02:05:37,747 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.439635753631592 
+2023-03-09 02:05:37,747 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.4415053999004 
+2023-03-09 02:05:45,095 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 5 with having 3366 TXs 
+2023-03-09 02:05:45,096 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3480939865112305 
+2023-03-09 02:05:45,096 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 458.0779731694924 
+2023-03-09 02:05:52,542 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 6 with having 3366 TXs 
+2023-03-09 02:05:52,542 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.446078538894653 
+2023-03-09 02:05:52,542 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.05002638874555 
+2023-03-09 02:05:59,845 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 7 with having 3366 TXs 
+2023-03-09 02:05:59,845 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.302947759628296 
+2023-03-09 02:05:59,845 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 460.90977380499874 
+2023-03-09 02:06:07,283 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 8 with having 3366 TXs 
+2023-03-09 02:06:07,283 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.438302993774414 
+2023-03-09 02:06:07,283 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.5225717233108 
+2023-03-09 02:06:14,682 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 9 with having 3366 TXs 
+2023-03-09 02:06:14,683 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.399454832077026 
+2023-03-09 02:06:14,683 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 454.89837783835276 
+2023-03-09 02:06:22,096 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 10 with having 3366 TXs 
+2023-03-09 02:06:22,096 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.413157224655151 
+2023-03-09 02:06:22,096 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 454.05754902987115 
+2023-03-09 02:06:29,465 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 11 with having 3366 TXs 
+2023-03-09 02:06:29,465 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.368823528289795 
+2023-03-09 02:06:29,465 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.7893351058718 
+2023-03-09 02:06:36,851 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 12 with having 3366 TXs 
+2023-03-09 02:06:36,852 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.386739253997803 
+2023-03-09 02:06:36,852 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.6814426850488 
+2023-03-09 02:06:44,292 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 13 with having 3366 TXs 
+2023-03-09 02:06:44,293 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.440907001495361 
+2023-03-09 02:06:44,293 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.3642076595705 
+2023-03-09 02:06:51,740 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 14 with having 3366 TXs 
+2023-03-09 02:06:51,741 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.447979211807251 
+2023-03-09 02:06:51,741 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.9346663406222 
+2023-03-09 02:06:59,169 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 15 with having 3366 TXs 
+2023-03-09 02:06:59,169 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4283223152160645 
+2023-03-09 02:06:59,169 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.13058011835807 
+2023-03-09 02:07:06,617 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 16 with having 3366 TXs 
+2023-03-09 02:07:06,617 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.448353052139282 
+2023-03-09 02:07:06,617 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.9119832851147 
+2023-03-09 02:07:13,997 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 17 with having 3366 TXs 
+2023-03-09 02:07:13,997 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3798041343688965 
+2023-03-09 02:07:13,997 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.1096661527931 
+2023-03-09 02:07:21,294 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 18 with having 3366 TXs 
+2023-03-09 02:07:21,295 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.297167539596558 
+2023-03-09 02:07:21,295 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 461.27486887687627 
+2023-03-09 02:07:28,679 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 19 with having 3366 TXs 
+2023-03-09 02:07:28,679 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.384328603744507 
+2023-03-09 02:07:28,679 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.83020212469154 
+2023-03-09 02:07:36,108 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 20 with having 3366 TXs 
+2023-03-09 02:07:36,108 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.429343938827515 
+2023-03-09 02:07:36,108 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.0682692462904 
+2023-03-09 02:07:43,566 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 21 with having 3366 TXs 
+2023-03-09 02:07:43,566 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.457486391067505 
+2023-03-09 02:07:43,566 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.3585172655169 
+2023-03-09 02:07:50,918 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 22 with having 3366 TXs 
+2023-03-09 02:07:50,918 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.351765155792236 
+2023-03-09 02:07:50,918 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 457.8492278616965 
+2023-03-09 02:07:58,307 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 23 with having 3366 TXs 
+2023-03-09 02:07:58,307 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.389450788497925 
+2023-03-09 02:07:58,307 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.51423188843194 
+2023-03-09 02:08:05,779 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 24 with having 3366 TXs 
+2023-03-09 02:08:05,779 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4714133739471436 
+2023-03-09 02:08:05,779 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 450.51716877789937 
+2023-03-09 02:08:13,241 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 25 with having 3366 TXs 
+2023-03-09 02:08:13,241 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.462222576141357 
+2023-03-09 02:08:13,241 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.0720453128759 
+2023-03-09 02:08:20,581 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 26 with having 3366 TXs 
+2023-03-09 02:08:20,581 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.339908599853516 
+2023-03-09 02:08:20,581 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 458.5888167690775 
+2023-03-09 02:08:27,979 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 27 with having 3366 TXs 
+2023-03-09 02:08:27,979 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.397649765014648 
+2023-03-09 02:08:27,979 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.00937553419504 
+2023-03-09 02:08:35,465 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 28 with having 3366 TXs 
+2023-03-09 02:08:35,465 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.486295461654663 
+2023-03-09 02:08:35,465 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 449.6215808260429 
+2023-03-09 02:08:42,827 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 29 with having 3366 TXs 
+2023-03-09 02:08:42,827 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.362051486968994 
+2023-03-09 02:08:42,827 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 457.2095163906283 
+2023-03-09 02:08:50,081 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 30 with having 3366 TXs 
+2023-03-09 02:08:50,082 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.254168510437012 
+2023-03-09 02:08:50,082 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 464.0090721847903 
+2023-03-09 02:08:57,638 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 31 with having 3366 TXs 
+2023-03-09 02:08:57,638 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.556730270385742 
+2023-03-09 02:08:57,638 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 445.43074578049993 
+2023-03-09 02:09:04,971 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 32 with having 3366 TXs 
+2023-03-09 02:09:04,971 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.333106279373169 
+2023-03-09 02:09:04,971 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 459.0142119538085 
+2023-03-09 02:09:12,389 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 33 with having 3366 TXs 
+2023-03-09 02:09:12,389 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.417799711227417 
+2023-03-09 02:09:12,389 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.7733736468103 
+2023-03-09 02:09:19,776 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 34 with having 3366 TXs 
+2023-03-09 02:09:19,776 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.386799573898315 
+2023-03-09 02:09:19,776 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.67772163386644 
+2023-03-09 02:09:27,278 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 35 with having 3366 TXs 
+2023-03-09 02:09:27,278 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.5016868114471436 
+2023-03-09 02:09:27,278 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 448.6990838998606 
+2023-03-09 02:09:34,640 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 36 with having 3366 TXs 
+2023-03-09 02:09:34,640 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.361965179443359 
+2023-03-09 02:09:34,640 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 457.2148764570093 
+2023-03-09 02:09:41,962 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 37 with having 3366 TXs 
+2023-03-09 02:09:41,963 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.322471618652344 
+2023-03-09 02:09:41,963 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 459.6808530368182 
+2023-03-09 02:09:49,358 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 38 with having 3366 TXs 
+2023-03-09 02:09:49,358 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.395272970199585 
+2023-03-09 02:09:49,358 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.1556127223195 
+2023-03-09 02:09:56,649 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 39 with having 3366 TXs 
+2023-03-09 02:09:56,649 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.29094672203064 
+2023-03-09 02:09:56,649 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 461.66844009834125 
+2023-03-09 02:10:03,952 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 40 with having 3366 TXs 
+2023-03-09 02:10:03,952 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.303129196166992 
+2023-03-09 02:10:03,952 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 460.89832311423805 
+2023-03-09 02:10:11,210 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 41 with having 3366 TXs 
+2023-03-09 02:10:11,210 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.257582664489746 
+2023-03-09 02:10:11,210 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 463.7907903508049 
+2023-03-09 02:10:18,553 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 42 with having 3366 TXs 
+2023-03-09 02:10:18,554 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.343690872192383 
+2023-03-09 02:10:18,554 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 458.3526265717004 
+2023-03-09 02:10:26,046 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 43 with having 3366 TXs 
+2023-03-09 02:10:26,047 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.492951393127441 
+2023-03-09 02:10:26,047 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 449.22218541111926 
+2023-03-09 02:10:33,240 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 44 with having 3366 TXs 
+2023-03-09 02:10:33,240 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.193315744400024 
+2023-03-09 02:10:33,240 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 467.93441572760395 
+2023-03-09 02:10:40,662 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 45 with having 3366 TXs 
+2023-03-09 02:10:40,662 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4217753410339355 
+2023-03-09 02:10:40,662 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.5303004107207 
+2023-03-09 02:10:47,919 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 46 with having 3366 TXs 
+2023-03-09 02:10:47,919 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.25704550743103 
+2023-03-09 02:10:47,919 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 463.82511954118263 
+2023-03-09 02:10:55,352 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 47 with having 3366 TXs 
+2023-03-09 02:10:55,352 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.43285346031189 
+2023-03-09 02:10:55,352 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.8543469843625 
+2023-03-09 02:11:02,777 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 48 with having 3366 TXs 
+2023-03-09 02:11:02,778 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4257307052612305 
+2023-03-09 02:11:02,778 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.28872451772907 
+2023-03-09 02:11:09,976 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 49 with having 3366 TXs 
+2023-03-09 02:11:09,976 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.198013544082642 
+2023-03-09 02:11:09,976 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 467.6290172817372 
+2023-03-09 02:11:17,330 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 50 with having 3366 TXs 
+2023-03-09 02:11:17,331 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.354704141616821 
+2023-03-09 02:11:17,331 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 457.6662684435373 
+2023-03-09 02:11:24,886 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 51 with having 3366 TXs 
+2023-03-09 02:11:24,886 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.5551371574401855 
+2023-03-09 02:11:24,886 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 445.5246714727361 
+2023-03-09 02:11:32,366 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 52 with having 3366 TXs 
+2023-03-09 02:11:32,366 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.480364799499512 
+2023-03-09 02:11:32,366 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 449.9780545763234 
+2023-03-09 02:11:39,559 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 53 with having 3366 TXs 
+2023-03-09 02:11:39,559 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.19242525100708 
+2023-03-09 02:11:39,559 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 467.9923506370392 
+2023-03-09 02:11:47,105 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 54 with having 3366 TXs 
+2023-03-09 02:11:47,106 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.546879053115845 
+2023-03-09 02:11:47,106 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 446.01218282546813 
+2023-03-09 02:11:54,302 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 55 with having 3366 TXs 
+2023-03-09 02:11:54,302 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.196213245391846 
+2023-03-09 02:11:54,302 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 467.74600546411625 
+2023-03-09 02:12:01,722 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 56 with having 3366 TXs 
+2023-03-09 02:12:01,722 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4204559326171875 
+2023-03-09 02:12:01,722 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.6109412367085 
+2023-03-09 02:12:09,095 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 57 with having 3366 TXs 
+2023-03-09 02:12:09,095 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3726277351379395 
+2023-03-09 02:12:09,095 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.55363608793726 
+2023-03-09 02:12:16,551 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 58 with having 3366 TXs 
+2023-03-09 02:12:16,551 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4562530517578125 
+2023-03-09 02:12:16,551 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.43317650766494 
+2023-03-09 02:12:23,994 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 59 with having 3366 TXs 
+2023-03-09 02:12:23,994 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4423627853393555 
+2023-03-09 02:12:23,994 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.2757217144337 
+2023-03-09 02:12:31,374 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 60 with having 3366 TXs 
+2023-03-09 02:12:31,374 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3803019523620605 
+2023-03-09 02:12:31,374 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.07890052827906 
+2023-03-09 02:12:38,792 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 61 with having 3366 TXs 
+2023-03-09 02:12:38,792 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.417619466781616 
+2023-03-09 02:12:38,792 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.7844001129991 
+2023-03-09 02:12:46,171 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 62 with having 3366 TXs 
+2023-03-09 02:12:46,171 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.37919282913208 
+2023-03-09 02:12:46,171 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.14745107506553 
+2023-03-09 02:12:53,582 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 63 with having 3366 TXs 
+2023-03-09 02:12:53,583 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4113240242004395 
+2023-03-09 02:12:53,583 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 454.1698607440303 
+2023-03-09 02:13:01,024 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 64 with having 3366 TXs 
+2023-03-09 02:13:01,024 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.441097974777222 
+2023-03-09 02:13:01,024 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.3525978840205 
+2023-03-09 02:13:08,418 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 65 with having 3366 TXs 
+2023-03-09 02:13:08,418 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3939454555511475 
+2023-03-09 02:13:08,418 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 455.23733171075946 
+2023-03-09 02:13:15,883 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 66 with having 3366 TXs 
+2023-03-09 02:13:15,883 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.465158224105835 
+2023-03-09 02:13:15,883 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 450.89466277229167 
+2023-03-09 02:13:23,238 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 67 with having 3366 TXs 
+2023-03-09 02:13:23,238 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.354888916015625 
+2023-03-09 02:13:23,238 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 457.65477064791185 
+2023-03-09 02:13:30,731 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 68 with having 3366 TXs 
+2023-03-09 02:13:30,731 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.492804288864136 
+2023-03-09 02:13:30,731 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 449.2310048725783 
+2023-03-09 02:13:38,171 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 69 with having 3366 TXs 
+2023-03-09 02:13:38,171 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.439764022827148 
+2023-03-09 02:13:38,171 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.4337048422811 
+2023-03-09 02:13:45,648 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 70 with having 3366 TXs 
+2023-03-09 02:13:45,648 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4776341915130615 
+2023-03-09 02:13:45,648 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 450.1423730810917 
+2023-03-09 02:13:53,164 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 71 with having 3366 TXs 
+2023-03-09 02:13:53,164 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.515729665756226 
+2023-03-09 02:13:53,164 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 447.86070677028755 
+2023-03-09 02:14:00,507 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 72 with having 3366 TXs 
+2023-03-09 02:14:00,507 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3431077003479 
+2023-03-09 02:14:00,507 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 458.38902782816683 
+2023-03-09 02:14:07,968 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 73 with having 3366 TXs 
+2023-03-09 02:14:07,968 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.460254907608032 
+2023-03-09 02:14:07,968 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.1910171551007 
+2023-03-09 02:14:15,404 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 74 with having 3366 TXs 
+2023-03-09 02:14:15,404 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.436368703842163 
+2023-03-09 02:14:15,404 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.6402783472641 
+2023-03-09 02:14:22,752 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 75 with having 3366 TXs 
+2023-03-09 02:14:22,752 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.347511053085327 
+2023-03-09 02:14:22,752 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 458.11431594738025 
+2023-03-09 02:14:30,311 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 76 with having 3366 TXs 
+2023-03-09 02:14:30,312 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.559861183166504 
+2023-03-09 02:14:30,312 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 445.24627085680504 
+2023-03-09 02:14:37,687 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 77 with having 3366 TXs 
+2023-03-09 02:14:37,688 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.376005411148071 
+2023-03-09 02:14:37,688 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.34456760466014 
+2023-03-09 02:14:45,093 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 78 with having 3366 TXs 
+2023-03-09 02:14:45,094 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.405882358551025 
+2023-03-09 02:14:45,094 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 454.50357392101 
+2023-03-09 02:14:52,525 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 79 with having 3366 TXs 
+2023-03-09 02:14:52,525 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.431596040725708 
+2023-03-09 02:14:52,525 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.93096954598525 
+2023-03-09 02:14:59,959 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 80 with having 3366 TXs 
+2023-03-09 02:14:59,959 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.43412184715271 
+2023-03-09 02:14:59,959 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.7770823784907 
+2023-03-09 02:15:07,427 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 81 with having 3366 TXs 
+2023-03-09 02:15:07,428 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.468112230300903 
+2023-03-09 02:15:07,428 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 450.71631172639434 
+2023-03-09 02:15:14,766 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 82 with having 3366 TXs 
+2023-03-09 02:15:14,766 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.3381712436676025 
+2023-03-09 02:15:14,766 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 458.6973904301639 
+2023-03-09 02:15:22,197 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 83 with having 3366 TXs 
+2023-03-09 02:15:22,198 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.431575059890747 
+2023-03-09 02:15:22,198 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.9322482614452 
+2023-03-09 02:15:29,600 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 84 with having 3366 TXs 
+2023-03-09 02:15:29,600 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4023756980896 
+2023-03-09 02:15:29,600 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 454.7188817866533 
+2023-03-09 02:15:37,059 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 85 with having 3366 TXs 
+2023-03-09 02:15:37,059 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.459221601486206 
+2023-03-09 02:15:37,059 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.2535194462307 
+2023-03-09 02:15:44,484 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 86 with having 3366 TXs 
+2023-03-09 02:15:44,484 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.424875020980835 
+2023-03-09 02:15:44,484 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.3409640550889 
+2023-03-09 02:15:51,918 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 87 with having 3366 TXs 
+2023-03-09 02:15:51,918 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.433652400970459 
+2023-03-09 02:15:51,918 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.80567592326094 
+2023-03-09 02:15:59,325 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 88 with having 3366 TXs 
+2023-03-09 02:15:59,326 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.407590627670288 
+2023-03-09 02:15:59,326 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 454.3987605668509 
+2023-03-09 02:16:06,810 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 89 with having 3366 TXs 
+2023-03-09 02:16:06,810 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.484480381011963 
+2023-03-09 02:16:06,810 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 449.7306197153648 
+2023-03-09 02:16:14,185 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 90 with having 3366 TXs 
+2023-03-09 02:16:14,185 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.374934911727905 
+2023-03-09 02:16:14,185 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.4108077275716 
+2023-03-09 02:16:21,661 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 91 with having 3366 TXs 
+2023-03-09 02:16:21,661 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.4762725830078125 
+2023-03-09 02:16:21,661 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 450.2243548008531 
+2023-03-09 02:16:29,096 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 92 with having 3366 TXs 
+2023-03-09 02:16:29,096 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.434158802032471 
+2023-03-09 02:16:29,096 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.77483164332574 
+2023-03-09 02:16:36,514 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 93 with having 3366 TXs 
+2023-03-09 02:16:36,514 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.418061017990112 
+2023-03-09 02:16:36,514 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 453.7573891394063 
+2023-03-09 02:16:44,024 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 94 with having 3366 TXs 
+2023-03-09 02:16:44,024 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.510228872299194 
+2023-03-09 02:16:44,024 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 448.18873795114143 
+2023-03-09 02:16:51,339 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 95 with having 3366 TXs 
+2023-03-09 02:16:51,339 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.315291404724121 
+2023-03-09 02:16:51,340 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 460.13204584389905 
+2023-03-09 02:16:58,778 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 96 with having 3366 TXs 
+2023-03-09 02:16:58,778 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.438491106033325 
+2023-03-09 02:16:58,778 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 452.51112786433976 
+2023-03-09 02:17:06,231 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 97 with having 3366 TXs 
+2023-03-09 02:17:06,232 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.453502893447876 
+2023-03-09 02:17:06,232 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.5997441899348 
+2023-03-09 02:17:13,606 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 98 with having 3366 TXs 
+2023-03-09 02:17:13,606 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.374042272567749 
+2023-03-09 02:17:13,606 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 456.4660569579173 
+2023-03-09 02:17:21,054 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 99 with having 3366 TXs 
+2023-03-09 02:17:21,054 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 7.448721170425415 
+2023-03-09 02:17:21,055 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 451.8896496440824 
+2023-03-09 02:17:21,055 dumbo.py [line:241] run_bft INFO node 22 breaks in 740.377050 seconds with total delivered Txs 336600 
+2023-03-09 02:18:38,227 dumbo_node.py [line:77] run INFO node 22's starts to run consensus on process id 4152634 
+2023-03-09 02:18:38,228 dumbo_node.py [line:59] prepare_bootstrap INFO node id 22 is inserting dummy payload TXs 
+2023-03-09 02:18:38,228 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,229 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,229 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,229 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,229 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,230 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,230 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,230 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,231 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,231 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,231 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,231 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,231 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,232 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,232 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,232 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,232 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,233 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,233 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,233 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,233 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,234 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,234 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,234 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,234 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,235 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,236 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,237 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,238 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,239 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,240 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:68] prepare_bootstrap INFO node id 22 just inserts 50000 TXs 
+2023-03-09 02:18:38,241 dumbo_node.py [line:72] prepare_bootstrap INFO node id 22 completed the loading of dummy TXs 
+2023-03-09 02:18:38,241 dumbo.py [line:179] run_bft INFO Node 22 starts to run at time:1678328318.2416294 
+2023-03-09 02:18:53,051 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 0 with having 3354 TXs 
+2023-03-09 02:18:53,051 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.809800863265991 
+2023-03-09 02:18:53,051 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.47164745605807 
+2023-03-09 02:19:07,755 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 1 with having 3354 TXs 
+2023-03-09 02:19:07,755 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.704007387161255 
+2023-03-09 02:19:07,755 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.10108235721722 
+2023-03-09 02:19:22,556 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 2 with having 3354 TXs 
+2023-03-09 02:19:22,556 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.801173448562622 
+2023-03-09 02:19:22,556 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.60365488289816 
+2023-03-09 02:19:37,424 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 3 with having 3354 TXs 
+2023-03-09 02:19:37,424 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.867226600646973 
+2023-03-09 02:19:37,424 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.59688434788805 
+2023-03-09 02:19:51,966 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 4 with having 3354 TXs 
+2023-03-09 02:19:51,966 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.542404174804688 
+2023-03-09 02:19:51,966 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 230.6358673355361 
+2023-03-09 02:20:06,649 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 5 with having 3354 TXs 
+2023-03-09 02:20:06,649 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.682863712310791 
+2023-03-09 02:20:06,649 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.42955337029053 
+2023-03-09 02:20:21,443 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 6 with having 3354 TXs 
+2023-03-09 02:20:21,443 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.794136047363281 
+2023-03-09 02:20:21,443 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.71144764805473 
+2023-03-09 02:20:36,190 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 7 with having 3354 TXs 
+2023-03-09 02:20:36,190 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.746320962905884 
+2023-03-09 02:20:36,190 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.44656164998233 
+2023-03-09 02:20:50,816 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 8 with having 3354 TXs 
+2023-03-09 02:20:50,817 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.62681531906128 
+2023-03-09 02:20:50,817 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.3048710083292 
+2023-03-09 02:21:05,577 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 9 with having 3354 TXs 
+2023-03-09 02:21:05,577 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.760701179504395 
+2023-03-09 02:21:05,577 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.22497794732905 
+2023-03-09 02:21:20,329 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 10 with having 3354 TXs 
+2023-03-09 02:21:20,329 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.751328229904175 
+2023-03-09 02:21:20,329 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.36935601505408 
+2023-03-09 02:21:35,000 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 11 with having 3354 TXs 
+2023-03-09 02:21:35,000 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.671671628952026 
+2023-03-09 02:21:35,000 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.60380772027753 
+2023-03-09 02:21:49,723 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 12 with having 3354 TXs 
+2023-03-09 02:21:49,723 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.722450494766235 
+2023-03-09 02:21:49,723 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.81533557829465 
+2023-03-09 02:22:04,448 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 13 with having 3354 TXs 
+2023-03-09 02:22:04,448 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.725141048431396 
+2023-03-09 02:22:04,448 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.7737095331448 
+2023-03-09 02:22:19,184 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 14 with having 3354 TXs 
+2023-03-09 02:22:19,184 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.73591923713684 
+2023-03-09 02:22:19,184 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.60711062716678 
+2023-03-09 02:22:33,976 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 15 with having 3354 TXs 
+2023-03-09 02:22:33,976 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.791555643081665 
+2023-03-09 02:22:33,976 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.75099772678334 
+2023-03-09 02:22:48,644 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 16 with having 3354 TXs 
+2023-03-09 02:22:48,644 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.668110370635986 
+2023-03-09 02:22:48,644 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.65931024860265 
+2023-03-09 02:23:03,375 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 17 with having 3354 TXs 
+2023-03-09 02:23:03,375 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.730895519256592 
+2023-03-09 02:23:03,375 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.68473210712602 
+2023-03-09 02:23:18,197 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 18 with having 3354 TXs 
+2023-03-09 02:23:18,197 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.82192325592041 
+2023-03-09 02:23:18,197 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.2864232993712 
+2023-03-09 02:23:32,898 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 19 with having 3354 TXs 
+2023-03-09 02:23:32,898 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.701088190078735 
+2023-03-09 02:23:32,898 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.14637642018232 
+2023-03-09 02:23:47,735 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 20 with having 3354 TXs 
+2023-03-09 02:23:47,735 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.836702346801758 
+2023-03-09 02:23:47,735 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.06101555464568 
+2023-03-09 02:24:02,391 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 21 with having 3354 TXs 
+2023-03-09 02:24:02,391 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.656513690948486 
+2023-03-09 02:24:02,391 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.84023245387138 
+2023-03-09 02:24:17,164 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 22 with having 3354 TXs 
+2023-03-09 02:24:17,164 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.77253246307373 
+2023-03-09 02:24:17,164 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.0429940420744 
+2023-03-09 02:24:32,262 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 23 with having 3354 TXs 
+2023-03-09 02:24:32,263 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 15.098432540893555 
+2023-03-09 02:24:32,263 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 222.14226482886968 
+2023-03-09 02:24:46,834 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 24 with having 3354 TXs 
+2023-03-09 02:24:46,834 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.571386814117432 
+2023-03-09 02:24:46,834 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 230.1771302063363 
+2023-03-09 02:25:01,569 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 25 with having 3354 TXs 
+2023-03-09 02:25:01,569 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.735090255737305 
+2023-03-09 02:25:01,569 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.61991557493687 
+2023-03-09 02:25:16,133 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 26 with having 3354 TXs 
+2023-03-09 02:25:16,133 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.563970804214478 
+2023-03-09 02:25:16,133 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 230.2943369695186 
+2023-03-09 02:25:31,001 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 27 with having 3354 TXs 
+2023-03-09 02:25:31,002 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.86832070350647 
+2023-03-09 02:25:31,002 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.5802835359214 
+2023-03-09 02:25:45,674 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 28 with having 3354 TXs 
+2023-03-09 02:25:45,674 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.672069549560547 
+2023-03-09 02:25:45,674 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.5976077655969 
+2023-03-09 02:26:00,491 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 29 with having 3354 TXs 
+2023-03-09 02:26:00,491 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.816928148269653 
+2023-03-09 02:26:00,491 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.36270935765359 
+2023-03-09 02:26:15,463 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 30 with having 3354 TXs 
+2023-03-09 02:26:15,463 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.972503662109375 
+2023-03-09 02:26:15,463 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 224.010631467595 
+2023-03-09 02:26:29,912 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 31 with having 3354 TXs 
+2023-03-09 02:26:29,912 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.448559284210205 
+2023-03-09 02:26:29,912 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 232.13387120647704 
+2023-03-09 02:26:44,582 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 32 with having 3354 TXs 
+2023-03-09 02:26:44,582 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.669681787490845 
+2023-03-09 02:26:44,582 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.63481625484394 
+2023-03-09 02:26:59,349 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 33 with having 3354 TXs 
+2023-03-09 02:26:59,349 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.767205715179443 
+2023-03-09 02:26:59,349 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.124891783174 
+2023-03-09 02:27:14,067 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 34 with having 3354 TXs 
+2023-03-09 02:27:14,067 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.717631578445435 
+2023-03-09 02:27:14,067 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.88992794955325 
+2023-03-09 02:27:28,822 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 35 with having 3354 TXs 
+2023-03-09 02:27:28,822 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.75537371635437 
+2023-03-09 02:27:28,822 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.30701807183215 
+2023-03-09 02:27:43,642 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 36 with having 3354 TXs 
+2023-03-09 02:27:43,643 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.820265531539917 
+2023-03-09 02:27:43,643 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.31173462190313 
+2023-03-09 02:27:58,268 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 37 with having 3354 TXs 
+2023-03-09 02:27:58,268 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.625314235687256 
+2023-03-09 02:27:58,268 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.3284059371455 
+2023-03-09 02:28:13,046 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 38 with having 3354 TXs 
+2023-03-09 02:28:13,046 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.777925729751587 
+2023-03-09 02:28:13,046 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.96013373836192 
+2023-03-09 02:28:27,787 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 39 with having 3354 TXs 
+2023-03-09 02:28:27,787 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.741176843643188 
+2023-03-09 02:28:27,787 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.52593199140267 
+2023-03-09 02:28:42,648 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 40 with having 3354 TXs 
+2023-03-09 02:28:42,648 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.860835313796997 
+2023-03-09 02:28:42,648 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.6939081268266 
+2023-03-09 02:28:57,302 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 41 with having 3354 TXs 
+2023-03-09 02:28:57,302 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.653903484344482 
+2023-03-09 02:28:57,302 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.88099430866666 
+2023-03-09 02:29:11,977 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 42 with having 3354 TXs 
+2023-03-09 02:29:11,977 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.674672603607178 
+2023-03-09 02:29:11,977 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.55705817760827 
+2023-03-09 02:29:26,818 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 43 with having 3354 TXs 
+2023-03-09 02:29:26,818 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.841531038284302 
+2023-03-09 02:29:26,818 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.9874666129948 
+2023-03-09 02:29:41,450 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 44 with having 3354 TXs 
+2023-03-09 02:29:41,450 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.631668090820312 
+2023-03-09 02:29:41,450 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.22881924202812 
+2023-03-09 02:29:56,249 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 45 with having 3354 TXs 
+2023-03-09 02:29:56,249 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.798608541488647 
+2023-03-09 02:29:56,249 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.64293001581137 
+2023-03-09 02:30:10,957 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 46 with having 3354 TXs 
+2023-03-09 02:30:10,958 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.708753108978271 
+2023-03-09 02:30:10,958 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.02748643273557 
+2023-03-09 02:30:25,712 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 47 with having 3354 TXs 
+2023-03-09 02:30:25,712 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.754368543624878 
+2023-03-09 02:30:25,712 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.32250384576497 
+2023-03-09 02:30:40,605 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 48 with having 3354 TXs 
+2023-03-09 02:30:40,605 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.892732858657837 
+2023-03-09 02:30:40,605 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.21051252525248 
+2023-03-09 02:30:55,290 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 49 with having 3354 TXs 
+2023-03-09 02:30:55,290 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.685110569000244 
+2023-03-09 02:30:55,290 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.39460310773396 
+2023-03-09 02:31:10,114 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 50 with having 3354 TXs 
+2023-03-09 02:31:10,114 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.824001789093018 
+2023-03-09 02:31:10,114 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.25469476587327 
+2023-03-09 02:31:24,805 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 51 with having 3354 TXs 
+2023-03-09 02:31:24,806 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.691340446472168 
+2023-03-09 02:31:24,806 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.29775215000183 
+2023-03-09 02:31:39,475 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 52 with having 3354 TXs 
+2023-03-09 02:31:39,475 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.669270753860474 
+2023-03-09 02:31:39,475 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.64122261274213 
+2023-03-09 02:31:54,291 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 53 with having 3354 TXs 
+2023-03-09 02:31:54,291 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.816031455993652 
+2023-03-09 02:31:54,291 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.37640922685665 
+2023-03-09 02:32:09,124 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 54 with having 3354 TXs 
+2023-03-09 02:32:09,125 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.833544731140137 
+2023-03-09 02:32:09,125 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.1091371477062 
+2023-03-09 02:32:23,965 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 55 with having 3354 TXs 
+2023-03-09 02:32:23,965 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.840648889541626 
+2023-03-09 02:32:23,965 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.00089962128285 
+2023-03-09 02:32:38,619 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 56 with having 3354 TXs 
+2023-03-09 02:32:38,619 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.653705835342407 
+2023-03-09 02:32:38,619 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.88408145267155 
+2023-03-09 02:32:53,413 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 57 with having 3354 TXs 
+2023-03-09 02:32:53,414 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.794418334960938 
+2023-03-09 02:32:53,414 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.70712183892397 
+2023-03-09 02:33:08,244 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 58 with having 3354 TXs 
+2023-03-09 02:33:08,244 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.829938411712646 
+2023-03-09 02:33:08,244 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.1641219865768 
+2023-03-09 02:33:22,950 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 59 with having 3354 TXs 
+2023-03-09 02:33:22,950 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.706233739852905 
+2023-03-09 02:33:22,950 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.0665505071421 
+2023-03-09 02:33:37,731 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 60 with having 3354 TXs 
+2023-03-09 02:33:37,731 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.780845642089844 
+2023-03-09 02:33:37,731 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.91529843523773 
+2023-03-09 02:33:52,502 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 61 with having 3354 TXs 
+2023-03-09 02:33:52,502 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.770852088928223 
+2023-03-09 02:33:52,502 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.06882309884176 
+2023-03-09 02:34:07,201 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 62 with having 3354 TXs 
+2023-03-09 02:34:07,201 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.699146747589111 
+2023-03-09 02:34:07,201 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.17650967054317 
+2023-03-09 02:34:22,041 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 63 with having 3354 TXs 
+2023-03-09 02:34:22,041 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.84023666381836 
+2023-03-09 02:34:22,041 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.0071773772524 
+2023-03-09 02:34:37,037 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 64 with having 3354 TXs 
+2023-03-09 02:34:37,037 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.995564699172974 
+2023-03-09 02:34:37,037 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 223.66613510626763 
+2023-03-09 02:34:51,622 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 65 with having 3354 TXs 
+2023-03-09 02:34:51,622 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.58461880683899 
+2023-03-09 02:34:51,622 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.96830046920726 
+2023-03-09 02:35:06,346 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 66 with having 3354 TXs 
+2023-03-09 02:35:06,346 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.724352359771729 
+2023-03-09 02:35:06,346 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.78590990279704 
+2023-03-09 02:35:21,084 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 67 with having 3354 TXs 
+2023-03-09 02:35:21,084 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.737974882125854 
+2023-03-09 02:35:21,084 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.57536410702633 
+2023-03-09 02:35:35,967 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 68 with having 3354 TXs 
+2023-03-09 02:35:35,967 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.882978916168213 
+2023-03-09 02:35:35,967 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.35811001898028 
+2023-03-09 02:35:50,570 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 69 with having 3354 TXs 
+2023-03-09 02:35:50,571 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.603286504745483 
+2023-03-09 02:35:50,571 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.67432700235554 
+2023-03-09 02:36:05,365 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 70 with having 3354 TXs 
+2023-03-09 02:36:05,365 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.794684648513794 
+2023-03-09 02:36:05,365 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.703040969307 
+2023-03-09 02:36:20,134 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 71 with having 3354 TXs 
+2023-03-09 02:36:20,134 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.768918752670288 
+2023-03-09 02:36:20,135 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.09854771146206 
+2023-03-09 02:36:34,825 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 72 with having 3354 TXs 
+2023-03-09 02:36:34,825 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.69025993347168 
+2023-03-09 02:36:34,825 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.31454413940824 
+2023-03-09 02:36:49,555 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 73 with having 3354 TXs 
+2023-03-09 02:36:49,555 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.729777574539185 
+2023-03-09 02:36:49,555 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.7020126765172 
+2023-03-09 02:37:04,311 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 74 with having 3354 TXs 
+2023-03-09 02:37:04,311 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.756111860275269 
+2023-03-09 02:37:04,311 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.29564750923709 
+2023-03-09 02:37:19,167 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 75 with having 3354 TXs 
+2023-03-09 02:37:19,167 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.856415510177612 
+2023-03-09 02:37:19,167 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.76105236840553 
+2023-03-09 02:37:33,913 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 76 with having 3354 TXs 
+2023-03-09 02:37:33,914 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.746186971664429 
+2023-03-09 02:37:33,914 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.44862834337357 
+2023-03-09 02:37:48,603 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 77 with having 3354 TXs 
+2023-03-09 02:37:48,603 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.689421892166138 
+2023-03-09 02:37:48,603 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.32756963626233 
+2023-03-09 02:38:03,524 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 78 with having 3354 TXs 
+2023-03-09 02:38:03,524 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.920966148376465 
+2023-03-09 02:38:03,524 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 224.78437164505903 
+2023-03-09 02:38:18,286 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 79 with having 3354 TXs 
+2023-03-09 02:38:18,287 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.762495517730713 
+2023-03-09 02:38:18,287 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.1973594147161 
+2023-03-09 02:38:33,408 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 80 with having 3354 TXs 
+2023-03-09 02:38:33,408 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 15.121510982513428 
+2023-03-09 02:38:33,408 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 221.8032314282996 
+2023-03-09 02:38:47,838 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 81 with having 3354 TXs 
+2023-03-09 02:38:47,838 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.43013310432434 
+2023-03-09 02:38:47,838 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 232.43028846316685 
+2023-03-09 02:39:02,591 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 82 with having 3354 TXs 
+2023-03-09 02:39:02,592 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.753167390823364 
+2023-03-09 02:39:02,592 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.34101167226135 
+2023-03-09 02:39:17,314 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 83 with having 3354 TXs 
+2023-03-09 02:39:17,314 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.722033977508545 
+2023-03-09 02:39:17,314 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.82178095255338 
+2023-03-09 02:39:32,107 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 84 with having 3354 TXs 
+2023-03-09 02:39:32,107 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.7930269241333 
+2023-03-09 02:39:32,107 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.72844558460812 
+2023-03-09 02:39:46,995 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 85 with having 3354 TXs 
+2023-03-09 02:39:46,995 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.888170957565308 
+2023-03-09 02:39:46,995 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.27951952994542 
+2023-03-09 02:40:01,773 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 86 with having 3354 TXs 
+2023-03-09 02:40:01,773 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.777677536010742 
+2023-03-09 02:40:01,773 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.96394557445578 
+2023-03-09 02:40:16,585 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 87 with having 3354 TXs 
+2023-03-09 02:40:16,586 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.812649011611938 
+2023-03-09 02:40:16,586 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.42810191281322 
+2023-03-09 02:40:31,183 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 88 with having 3354 TXs 
+2023-03-09 02:40:31,184 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.597877740859985 
+2023-03-09 02:40:31,184 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.75942527673274 
+2023-03-09 02:40:46,022 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 89 with having 3354 TXs 
+2023-03-09 02:40:46,022 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.838541030883789 
+2023-03-09 02:40:46,022 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 226.03300371776743 
+2023-03-09 02:41:00,673 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 90 with having 3354 TXs 
+2023-03-09 02:41:00,673 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.650447130203247 
+2023-03-09 02:41:00,673 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.9349922355216 
+2023-03-09 02:41:15,515 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 91 with having 3354 TXs 
+2023-03-09 02:41:15,515 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.842589855194092 
+2023-03-09 02:41:15,515 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.97134548094274 
+2023-03-09 02:41:30,156 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 92 with having 3354 TXs 
+2023-03-09 02:41:30,156 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.640540838241577 
+2023-03-09 02:41:30,156 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 229.08989750154865 
+2023-03-09 02:41:45,033 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 93 with having 3354 TXs 
+2023-03-09 02:41:45,033 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.876887798309326 
+2023-03-09 02:41:45,033 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 225.45037950620042 
+2023-03-09 02:41:59,771 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 94 with having 3354 TXs 
+2023-03-09 02:41:59,772 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.738583326339722 
+2023-03-09 02:41:59,772 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.56596924793823 
+2023-03-09 02:42:14,424 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 95 with having 3354 TXs 
+2023-03-09 02:42:14,425 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.652926206588745 
+2023-03-09 02:42:14,425 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 228.89625953974033 
+2023-03-09 02:42:29,140 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 96 with having 3354 TXs 
+2023-03-09 02:42:29,141 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.715936422348022 
+2023-03-09 02:42:29,141 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.91617901437274 
+2023-03-09 02:42:44,065 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 97 with having 3354 TXs 
+2023-03-09 02:42:44,065 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.924232244491577 
+2023-03-09 02:42:44,065 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 224.735178671448 
+2023-03-09 02:42:59,031 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 98 with having 3354 TXs 
+2023-03-09 02:42:59,031 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.965744972229004 
+2023-03-09 02:42:59,031 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 224.11179705546286 
+2023-03-09 02:43:13,775 dumbo.py [line:217] run_bft INFO Node 22 Delivers ACS Block in Round 99 with having 3354 TXs 
+2023-03-09 02:43:13,775 dumbo.py [line:219] run_bft INFO ACS Block Delay at Node 22: 14.744511365890503 
+2023-03-09 02:43:13,775 dumbo.py [line:220] run_bft INFO Current Block's TPS at Node 22: 227.47447621486054 
+2023-03-09 02:43:13,775 dumbo.py [line:241] run_bft INFO node 22 breaks in 1475.534346 seconds with total delivered Txs 335400 

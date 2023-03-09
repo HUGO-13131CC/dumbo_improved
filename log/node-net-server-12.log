@@ -1,0 +1,12 @@
+2023-03-09 01:48:50,964 socket_server.py [line:68] run INFO node id 12 is running on pid 795342 
+2023-03-09 01:48:50,965 socket_server.py [line:34] _listen_and_recv_forever INFO node 12's socket server starts to listen ingoing connections on process id 795342 
+2023-03-09 01:50:30,061 socket_server.py [line:68] run INFO node id 12 is running on pid 1802381 
+2023-03-09 01:50:30,062 socket_server.py [line:34] _listen_and_recv_forever INFO node 12's socket server starts to listen ingoing connections on process id 1802381 
+2023-03-09 01:52:38,289 socket_server.py [line:68] run INFO node id 12 is running on pid 3097764 
+2023-03-09 01:52:38,290 socket_server.py [line:34] _listen_and_recv_forever INFO node 12's socket server starts to listen ingoing connections on process id 3097764 
+2023-03-09 01:56:11,440 socket_server.py [line:68] run INFO node id 12 is running on pid 1142166 
+2023-03-09 01:56:11,440 socket_server.py [line:34] _listen_and_recv_forever INFO node 12's socket server starts to listen ingoing connections on process id 1142166 
+2023-03-09 02:04:59,648 socket_server.py [line:68] run INFO node id 12 is running on pid 2808812 
+2023-03-09 02:04:59,649 socket_server.py [line:34] _listen_and_recv_forever INFO node 12's socket server starts to listen ingoing connections on process id 2808812 
+2023-03-09 02:18:37,240 socket_server.py [line:68] run INFO node id 12 is running on pid 18038 
+2023-03-09 02:18:37,240 socket_server.py [line:34] _listen_and_recv_forever INFO node 12's socket server starts to listen ingoing connections on process id 18038 
