@@ -11,8 +11,8 @@ from enum import Enum
 from gevent import Greenlet
 from gevent.queue import Queue
 from dumbobft.core.dumbocommonsubset import dumbocommonsubset
-# from dumbobft.core.provablereliablebroadcast import provablereliablebroadcast
-from dumbobft.core.provablereliablebroadcast_ import provablereliablebroadcast
+from dumbobft.core.provablereliablebroadcast import provablereliablebroadcast
+# from dumbobft.core.provablereliablebroadcast_ import provablereliablebroadcast
 # from dumbobft.core.validatedcommonsubset import validatedcommonsubset
 from dumbobft.core.validatedcommonsubset_ import validatedcommonsubset
 from dumbobft.core.validators import prbc_validate
@@ -353,44 +353,44 @@ class Dumbo():
                 """Threshold encryption broadcast."""
                 send(k, ('ACS_VACS', '', o))
 
-            def vacs_predicate(j, vj):
-                '''
-                    the infinity loop of predicate
-                    it will be arisen by a coroutine
-                    and be killed by the death of the coroutine if it never returns result
-                    :Compare to 'vacs_predicate'
-                '''
-                prbc_sid = sid + 'PRBC' + str(r) + str(j)
-                while True:
-                    proof = vj
-                    if prbc_sid in prbc_proofs.keys():
-                        try:
-                            _prbc_sid, _roothash, _ = proof
-                            assert prbc_sid == _prbc_sid
-                            _, roothash, _ = prbc_proofs[prbc_sid]
-                            assert roothash == _roothash
-                            return True
-                        except AssertionError:
-                            print("1 Failed to verify proof for PB")
-                            return False
-                    else:
-                        gevent.sleep(0)     # 主动让出协程资源
-                        continue
-
             # def vacs_predicate(j, vj):
-            #     """
-            #         only use the prbc_validate to check the proof, which is time-costly
-            #         :Compare to 'vacs_predicate_waiting'
-            #     """
+            #     '''
+            #         the infinity loop of predicate
+            #         it will be arisen by a coroutine
+            #         and be killed by the death of the coroutine if it never returns result
+            #         :Compare to 'vacs_predicate'
+            #     '''
             #     prbc_sid = sid + 'PRBC' + str(r) + str(j)
-            #     try:
+            #     while True:
             #         proof = vj
-            #         assert prbc_validate(prbc_sid, N, f, self.sPK2s, proof)
-            #         prbc_proofs[prbc_sid] = proof
-            #         return True
-            #     except AssertionError:
-            #         print("2 Failed to verify proof for PB")
-            #         return False
+            #         if prbc_sid in prbc_proofs.keys():
+            #             try:
+            #                 _prbc_sid, _roothash, _ = proof
+            #                 assert prbc_sid == _prbc_sid
+            #                 _, roothash, _ = prbc_proofs[prbc_sid]
+            #                 assert roothash == _roothash
+            #                 return True
+            #             except AssertionError:
+            #                 print("1 Failed to verify proof for PB")
+            #                 return False
+            #         else:
+            #             gevent.sleep(0)     # 主动让出协程资源
+            #             continue
+
+            def vacs_predicate(j, vj):
+                """
+                    only use the prbc_validate to check the proof, which is time-costly
+                    :Compare to 'vacs_predicate_waiting'
+                """
+                prbc_sid = sid + 'PRBC' + str(r) + str(j)
+                try:
+                    proof = vj
+                    assert prbc_validate(prbc_sid, N, f, self.sPK2s, proof)
+                    prbc_proofs[prbc_sid] = proof
+                    return True
+                except AssertionError:
+                    print("2 Failed to verify proof for PB")
+                    return False
 
             if self.debug:
                 vacs_thread = Greenlet(validatedcommonsubset, sid + 'VACS' + str(r), pid, N, f,

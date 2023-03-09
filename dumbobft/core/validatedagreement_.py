@@ -304,7 +304,14 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
     votes = defaultdict(set)
 
     while True:
-        #gevent.sleep(0)
+        gevent.sleep(0)
+
+        if r > r_threshold:
+            seed = permutation_coin('permutation')  # Block to get a random seed to permute the list of nodes
+            # print(seed)
+            np.random.seed(seed)
+            pi = np.random.permutation(N)
+            r = 0
 
         a = pi[r]
         if is_cbc_delivered[a] == 1:
@@ -317,13 +324,7 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
         ballot_counter = 0
 
         while True:
-            # gevent.sleep(0)
-            if r > r_threshold:
-                seed = permutation_coin('permutation')  # Block to get a random seed to permute the list of nodes
-                # print(seed)
-                np.random.seed(seed)
-                pi = np.random.permutation(N)
-                r = 0
+            gevent.sleep(0)
             # print("flag 1")
             sender, vote = vote_recvs[r].get()
             a, ballot_bit, cbc_out = vote
@@ -398,7 +399,7 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
         # print("Round", r, "ABA outputs", aba_r)
         if aba_r == 1:
             break
-        r += 1
+
     assert a is not None
     if logger != None:
         logger.info("VABA %s completes at round %d" % (sid, r))
