@@ -1,2 +1,0 @@
-2023-03-09 02:18:37,263 socket_client.py [line:240] run INFO node id 57 is running on pid 18369 
-2023-03-09 02:18:37,264 socket_client.py [line:53] _connect_and_send_forever INFO node 57's socket client starts to make outgoing connections on process id 18369 
