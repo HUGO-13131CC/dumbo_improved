@@ -1,0 +1,192 @@
+2023-03-10 10:52:48,510 socket_client.py [line:240] run INFO node id 12 is running on pid 565474 
+2023-03-10 10:52:48,511 socket_client.py [line:53] _connect_and_send_forever INFO node 12's socket client starts to make outgoing connections on process id 565474 
+2023-03-10 10:53:42,699 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,700 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,701 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,701 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,702 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,702 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,702 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,703 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,703 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,703 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,704 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,704 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,704 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,704 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,705 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,705 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,705 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,705 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,706 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,706 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,706 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,706 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,707 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,707 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,711 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,711 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,711 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,712 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,712 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,712 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,712 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,712 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,713 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,713 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,713 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,713 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,714 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,714 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,714 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,714 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,715 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,715 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,722 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,722 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,722 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,722 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,723 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,723 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,723 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,723 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,724 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,724 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,724 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,724 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,725 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,725 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,725 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,725 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,725 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,726 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,726 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,726 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,726 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,726 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,726 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,727 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,727 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,727 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,727 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,728 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,728 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,728 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,728 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,729 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,729 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,729 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,729 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,729 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,730 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,730 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,730 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,730 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,731 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,731 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,731 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,731 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,732 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,732 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,732 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,732 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,741 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,741 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,748 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,748 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,754 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,754 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,760 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,760 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,766 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,766 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,771 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,771 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,776 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,777 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,781 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,782 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,783 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,784 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,784 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,785 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,785 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,786 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,786 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,786 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,788 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,788 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,789 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,789 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,790 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,790 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,790 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,791 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,791 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,791 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,791 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,792 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,792 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,792 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,792 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,792 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,793 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,793 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,793 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,793 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,793 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,793 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,794 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,794 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,794 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,794 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,794 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,794 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,794 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,794 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,795 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,795 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,795 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,795 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,795 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,795 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,795 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,795 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,796 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,796 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,796 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,796 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,796 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,796 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,797 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,797 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,797 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,797 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,797 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,797 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,797 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,798 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,798 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,798 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,798 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,798 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,798 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,798 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,798 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,798 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,798 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,803 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,803 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,803 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:53:42,803 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,803 socket_client.py [line:168] _send ERROR (ConnectionResetError(104, 'Connection reset by peer'), None) 
+2023-03-10 10:53:42,804 socket_client.py [line:166] _send ERROR fail to send msg 
+2023-03-10 10:53:42,804 socket_client.py [line:168] _send ERROR (BrokenPipeError(32, 'Broken pipe'), None) 
+2023-03-10 10:57:29,701 socket_client.py [line:240] run INFO node id 12 is running on pid 3344856 
+2023-03-10 10:57:29,701 socket_client.py [line:53] _connect_and_send_forever INFO node 12's socket client starts to make outgoing connections on process id 3344856 
+2023-03-10 10:59:37,295 socket_client.py [line:240] run INFO node id 12 is running on pid 511638 
+2023-03-10 10:59:37,296 socket_client.py [line:53] _connect_and_send_forever INFO node 12's socket client starts to make outgoing connections on process id 511638 
+2023-03-10 11:02:40,759 socket_client.py [line:240] run INFO node id 12 is running on pid 2617261 
+2023-03-10 11:02:40,759 socket_client.py [line:53] _connect_and_send_forever INFO node 12's socket client starts to make outgoing connections on process id 2617261 
+2023-03-10 11:08:16,501 socket_client.py [line:240] run INFO node id 12 is running on pid 2499828 
+2023-03-10 11:08:16,501 socket_client.py [line:53] _connect_and_send_forever INFO node 12's socket client starts to make outgoing connections on process id 2499828 

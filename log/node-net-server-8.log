@@ -1,0 +1,10 @@
+2023-03-10 10:52:48,497 socket_server.py [line:68] run INFO node id 8 is running on pid 565336 
+2023-03-10 10:52:48,497 socket_server.py [line:34] _listen_and_recv_forever INFO node 8's socket server starts to listen ingoing connections on process id 565336 
+2023-03-10 10:57:29,632 socket_server.py [line:68] run INFO node id 8 is running on pid 3344207 
+2023-03-10 10:57:29,632 socket_server.py [line:34] _listen_and_recv_forever INFO node 8's socket server starts to listen ingoing connections on process id 3344207 
+2023-03-10 10:59:37,519 socket_server.py [line:68] run INFO node id 8 is running on pid 513909 
+2023-03-10 10:59:37,519 socket_server.py [line:34] _listen_and_recv_forever INFO node 8's socket server starts to listen ingoing connections on process id 513909 
+2023-03-10 11:02:40,731 socket_server.py [line:68] run INFO node id 8 is running on pid 2616957 
+2023-03-10 11:02:40,732 socket_server.py [line:34] _listen_and_recv_forever INFO node 8's socket server starts to listen ingoing connections on process id 2616957 
+2023-03-10 11:08:16,197 socket_server.py [line:68] run INFO node id 8 is running on pid 2495654 
+2023-03-10 11:08:16,198 socket_server.py [line:34] _listen_and_recv_forever INFO node 8's socket server starts to listen ingoing connections on process id 2495654 

@@ -1,0 +1,8 @@
+2023-03-10 10:57:29,704 socket_client.py [line:240] run INFO node id 22 is running on pid 3344880 
+2023-03-10 10:57:29,704 socket_client.py [line:53] _connect_and_send_forever INFO node 22's socket client starts to make outgoing connections on process id 3344880 
+2023-03-10 10:59:37,292 socket_client.py [line:240] run INFO node id 22 is running on pid 511618 
+2023-03-10 10:59:37,292 socket_client.py [line:53] _connect_and_send_forever INFO node 22's socket client starts to make outgoing connections on process id 511618 
+2023-03-10 11:02:40,714 socket_client.py [line:240] run INFO node id 22 is running on pid 2616816 
+2023-03-10 11:02:40,715 socket_client.py [line:53] _connect_and_send_forever INFO node 22's socket client starts to make outgoing connections on process id 2616816 
+2023-03-10 11:08:16,512 socket_client.py [line:240] run INFO node id 22 is running on pid 2499951 
+2023-03-10 11:08:16,512 socket_client.py [line:53] _connect_and_send_forever INFO node 22's socket client starts to make outgoing connections on process id 2499951 
