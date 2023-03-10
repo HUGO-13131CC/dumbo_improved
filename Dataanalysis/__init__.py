@@ -57,7 +57,7 @@ if __name__ == '__main__':
                 idx += 1
 
     print(data_set)
-    with open('data_opt_predicate.csv', 'a', newline='', encoding='utf-8') as out:
+    with open('data_opt_permutation.csv', 'a', newline='', encoding='utf-8') as out:
         writer = csv.DictWriter(out, fieldnames=header)
         writer.writeheader()
         writer.writerows(data_set)
