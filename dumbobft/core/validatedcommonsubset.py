@@ -7,7 +7,7 @@ from datetime import datetime
 import gevent
 from collections import namedtuple
 from enum import Enum
-from dumbobft.core.validatedagreement import validatedagreement
+from dumbobft.core.validatedagreement_ import validatedagreement
 from gevent.queue import Queue
 from honeybadgerbft.exceptions import UnknownTagError
 

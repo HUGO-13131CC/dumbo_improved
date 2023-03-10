@@ -13,8 +13,8 @@ from gevent.queue import Queue
 from dumbobft.core.dumbocommonsubset import dumbocommonsubset
 from dumbobft.core.provablereliablebroadcast import provablereliablebroadcast
 # from dumbobft.core.provablereliablebroadcast_ import provablereliablebroadcast
-# from dumbobft.core.validatedcommonsubset import validatedcommonsubset
-from dumbobft.core.validatedcommonsubset_ import validatedcommonsubset
+from dumbobft.core.validatedcommonsubset import validatedcommonsubset
+# from dumbobft.core.validatedcommonsubset_ import validatedcommonsubset
 from dumbobft.core.validators import prbc_validate
 from honeybadgerbft.core.honeybadger_block import honeybadger_block
 from honeybadgerbft.exceptions import UnknownTagError

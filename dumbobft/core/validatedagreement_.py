@@ -289,7 +289,7 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
     """
     # TODO: Do the normal permutation first
     # seed = permutation_coin('permutation')  # Block to get a random seed to permute the list of nodes
-    seed = int.from_bytes(hash(sid), byteorder="little") % (2 ** 32 - 1)
+    seed = int.from_bytes(hash('permutation'), byteorder="little") % (2 ** 32 - 1)
     np.random.seed(seed)
     pi = np.random.permutation(N)
 
@@ -304,7 +304,7 @@ def validatedagreement(sid, pid, N, f, PK, SK, PK1, SK1, PK2s, SK2, input, decid
     votes = defaultdict(set)
 
     while True:
-        gevent.sleep(0)
+        # gevent.sleep(0)
 
         if r > r_threshold:
             seed = permutation_coin('permutation')  # Block to get a random seed to permute the list of nodes
